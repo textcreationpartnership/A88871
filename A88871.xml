@@ -1,0 +1,777 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations concerning common fields, and inclosures, dialoguewise, digested into a deliberative discourse between two supposed friends, Philopeustus and Parrhesiastes. And tending partly to state and determine the question of lawfulnesse or unlawfulnesse between inclosures, and common fields, partly to answer some passages, which may be thought to make against inclosure in general, in another discourse lately published by Mr John Moore, under this title, The crying sinne of England, of not caring for the poor.</title>
+            <author>Lee, Joseph.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 121 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88871</idno>
+            <idno type="STC">Wing L843</idno>
+            <idno type="STC">Thomason E719_9</idno>
+            <idno type="STC">ESTC R202192</idno>
+            <idno type="EEBO-CITATION">99862578</idno>
+            <idno type="PROQUEST">99862578</idno>
+            <idno type="VID">166754</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88871)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166754)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 111:E719[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations concerning common fields, and inclosures, dialoguewise, digested into a deliberative discourse between two supposed friends, Philopeustus and Parrhesiastes. And tending partly to state and determine the question of lawfulnesse or unlawfulnesse between inclosures, and common fields, partly to answer some passages, which may be thought to make against inclosure in general, in another discourse lately published by Mr John Moore, under this title, The crying sinne of England, of not caring for the poor.</title>
+                  <author>Lee, Joseph.</author>
+               </titleStmt>
+               <extent>[8], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Abel Roper, and are to be sould at the signe of the Sun, over against St Dunstans Church in Fleet-street.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654. [i.e. 1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Joseph Lee by Wing.</note>
+                  <note>Thomason received his copy in November 1653.</note>
+                  <note>Annotation on Thomason copy: "Nou. 18. 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Moore, John, 1595?-1657. --  Crying sin of England, of not caring for the poor --  Early works to 1800.</term>
+               <term>Inclosures --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166754:1" rendition="simple:additions"/>
+            <p>CONSIDERATIONS Concerning COMMON FIELDS, AND INCLOSVRES, <hi>DIALOG<g ref="char:V">Ʋ</g>EWISE,</hi> Digeſted into a deliberative Diſcourſe be<g ref="char:EOLhyphen"/>tween two ſuppoſed Friends, <hi>Philopeuſtus</hi> and <hi>Parrheſiaſtes.</hi> AND TENDING Partly to ſtate and determine the queſtion of law<g ref="char:EOLhyphen"/>fulneſſe or unlawfulneſſe between Incloſures, and Common Fields, Partly to anſwer ſome paſſages, which may be thought to make againſt Incloſure in general, in another diſcourſe lately publiſhed by M<hi rend="sup">r</hi> JOHN MOORE, under this Title, <hi>The crying ſinne of</hi> England, <hi>of not caring for the poor.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Mat. 7.3, 4.</hi>
+               </bibl>
+               <p>Why beholdeſt thou the mote that is in thy brothers eye, but conſidereſt not the beam that is in thine own eye? Or how wilt thou ſay to thy brother, Let me pull out the mote out of thine eye, and behold, a beame is in thine own eye?</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Abel Roper,</hi> and are to be ſould at the ſigne of the Sun, over againſt <hi>St</hi> Dunſtans Church in Fleet-ſtreet. 1654.</p>
+         </div>
+         <div type="author_to_friend">
+            <pb facs="tcp:166754:2"/>
+            <pb facs="tcp:166754:2"/>
+            <head>PSEUDOMISUS <hi>to</hi> PHILORTHUS; <hi>OR,</hi> The Author to his Friend.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F you chance to ſee in print (as perad<g ref="char:EOLhyphen"/>venture you may doe) a little diſcourſe under this Title, <hi>Conſiderations concerning Common Fields &amp; Incloſures,</hi> and conceive (as I ſuppoſe you will doe) that it was penned by me, I ſhall owe you an account of one thing, and entreat another of you, both which I thinke it not amiſſe to acquaint you with now. That which I ſhall owe you an account of, is, the concealing of my name; and, to deal clearly with you, I doe it, partly becauſe I am not willing yet to relinquiſh an old reſolution, which I put on long ago, never to permit my name to be printed with
+<pb facs="tcp:166754:3"/>any work of my own; partly becauſe I now con<g ref="char:EOLhyphen"/>ceive it ſomwhat neceſſary to do ſo, to the end that neither the Author, nor the Book may ſpeed the worſe for one another. I know what briers and thorns are with me, &amp; amongst what Scorpions I dwel, whoſe words though I may not be afraid of, nor diſmayed at their looks, which God forbad his Prophet, <hi>Ezek. 2.6.</hi> Yet I muſt not forget, that our Saviour himſelf, <hi>Mat. 10.16.28.</hi> at the ſame time when he ſaid unto his Diſciples, Feare not them which kil the body, ſaid likewiſe, be ye wiſe as ſerpents; whoſe waies upon rocks, as <hi>Agur</hi> obſerves, <hi>Pro. 30.18, &amp;c.</hi> were amongst thoſe things, which he knew not. And for him, that would endure hardneſſe, as a good ſouldier of Je<g ref="char:EOLhyphen"/>ſus Chriſt, a Breaſt-plate of Innocence, and a Shield of Patience, will not alwaies be defenſive armour enough, without an Head-piece of pru<g ref="char:EOLhyphen"/>dent circumſpection; which ſometimes is ſeen in a purpoſely concealed ſecreſie, as well as in any thing elſe; eſpecially then, when it may bee a que<g ref="char:EOLhyphen"/>ſtion,
+<pb facs="tcp:166754:3"/>whether of the two is moſt commendable, to bee eminently virtuous, or obſcurely innocent. Having thus given you an account of the rea<g ref="char:EOLhyphen"/>ſons, why I conceal my name my ſelf, that which I ſhall intreat of you is, that you will doe the like for me; and though you may imagine who I am, yet I pray you lock up that thought within your own breaſt, and doe not lend the key to any one, except it be unto my ſelf. So you ſhall fur<g ref="char:EOLhyphen"/>ther oblige me to be ſtill, as I am,</p>
+            <closer>
+               <signed>Intirely yours.</signed>
+            </closer>
+         </div>
+         <div type="publisher_to_the_reader">
+            <pb facs="tcp:166754:4"/>
+            <head>The Publiſher to all ingenious, and judicious, unprejudicate, and impartial Readers, wiſheth out<g ref="char:EOLhyphen"/>ward proſperity in all things, together with the in<g ref="char:EOLhyphen"/>ward peace of a good Conſcience.</head>
+            <p>GEntlemen, to you, as the onely competent judges in matters of controverſie, I make my addreſſe, deſir<g ref="char:EOLhyphen"/>ing you, before you paſſe any cenſure at all upon it, thorowly to examine this enſuing diſcourſe, which briefly and plainly, in a moderate way, diſcovering the difference of Common fields and Incloſures, the evil of the one, and advantage of the other, may ſerve as an Antidote againſt that miſunderſtanding, which may be raiſed in the minds of ſome men, by thoſe ſuggeſtions which are offered unto them, in another diſcourſe, lately publiſhed under this Title, <hi>The crying ſin of</hi> England <hi>of not caring for the poor,</hi> and dedicated to the ſupreme Authority of this Nation, The Parliament of the Commonwealth of <hi>England,</hi> by <hi>John Moor,</hi> Miniſter of the Church of <hi>Knaptoſt</hi> in <hi>Leiceſterſhire.</hi> I confeſſe this diſcourſe was not written by my ſelf, but it came to mee with this intimation, that the Author would not be offended to ſee it in print, either without any name at all, or with any name, except his own: His opinion being, that it is a ſymptome of too much diſtemper in the minds of men, when truths are not well digeſted, or taſted, without ſauces of names; and his reſolution to rejoice in private, when he ſeeth any good cauſe get the victory, al<g ref="char:EOLhyphen"/>though he himſelf be no publick partaker in the triumph. And now to follow his example therein, I am content to tender his diſcourſe to all men, to whom it may be benefi<g ref="char:EOLhyphen"/>cial, whether they will give me thanks for it, or no.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:166754:4"/>
+            <head>The Contents.</head>
+            <list>
+               <item>THe Authors Epiſtle to his Friend.</item>
+               <item>The Publiſhers Epiſtle to the Reader.</item>
+               <item>
+                  <label>Sect. 1.</label> An Introduction to the enſuing diſcourſe, applying that which Mr. <hi>Moor</hi> hath ſaid of thoſe that care not for the poor, to them, that by hindering Incloſure prevent the reformation of thoſe abuſes in Common fields, which are meanes to make, and keepe men poore. <hi>page 1.</hi>
+               </item>
+               <item>
+                  <label>Sect. 2.</label> Six conſiderations of important concernment in this caſe. <hi>page 3.</hi>
+               </item>
+               <item>
+                  <label>Sect. 3.</label> Injurious dealing of neighbours with one another in Common fields an ordinary means of making and keeping men poor. <hi>page 4.</hi>
+               </item>
+               <item>
+                  <label>Sect. 4.</label> Incloſures rightly ordered the means to redreſſe the abuſe of injurious dealing in common fields, without depopulation, <hi>pag. 8.</hi>
+               </item>
+               <item>
+                  <label>Sect. 5.</label> Decay of Tillage no proper adjunct, or neceſſary effect of Incloſure, but rather the contrary. <hi>page 10.</hi>
+               </item>
+               <item>
+                  <label>Sect. 6.</label> Manuring of land in common fields by the folding of ſheep not ſo beneficial as is commonly conceived. <hi>page 11.</hi>
+               </item>
+               <item>
+                  <label>Sect. 7.</label> Fewer cattle kept in grounds incloſed may yeeld greater profit then more in common fields. <hi>page 12.</hi>
+               </item>
+               <item>
+                  <label>Sect. 8.</label> Other inconveniencies in common fields, as want of good husbandry, <hi>&amp;c. page 14.</hi>
+               </item>
+               <item>
+                  <label>Sect. 9.</label> Anſwers to that which Mr. <hi>Moor</hi> hath ſaid, page 7. concerning Make-beggars, and the woe denounced by the Prophet, <hi>Iſaiah 5.8. page 15.</hi>
+               </item>
+               <item>
+                  <label>Sect. 10.</label> Anſwers to that which Mr. <hi>Moor</hi> hath ſaid, page <hi>8.</hi> concerning depopulation. <hi>page 17.</hi>
+               </item>
+               <item>
+                  <label>Sect. 11.</label> Anſwers to that which Mr. <hi>Moor</hi> hath ſaid, page <hi>9.</hi> concerning decay of Tillage. <hi>page 18.</hi>
+               </item>
+               <item>
+                  <label>Sect. 12.</label> Anſwers to that which Mr. <hi>Moor</hi> hath ſaid, page <hi>10.</hi>
+                  <pb facs="tcp:166754:5"/>concerning the miſery of Tenants and Cottiers by means of Inclo<g ref="char:EOLhyphen"/>ſure. <hi>page 21.</hi>
+               </item>
+               <item>
+                  <label>Sect. 13.</label> Anſwers to that which Mr. <hi>Moor</hi> hath ſaid page <hi>11.</hi> concerning filthy lucre as the main inducement to incloſure. <hi>pag. 24.</hi>
+               </item>
+               <item>
+                  <label>Sect. 14.</label> Anſwers to that which Mr. <hi>Moor</hi> hath ſaid page <hi>12.</hi> concerning depopulation coming by degrees. <hi>page 25.</hi>
+               </item>
+               <item>
+                  <label>Sect. 15.</label> Anſwers to that which Mr. <hi>Moor</hi> hath ſaid page <hi>13.</hi> concerning famine by means of Incloſure. <hi>page 26.</hi>
+               </item>
+               <item>
+                  <label>Sect. 16.</label> Anſwers to that which Mr. <hi>Moor</hi> hath ſaid page <hi>13, 14.</hi> concerning Law-ſuits for not conſenting to Incloſure. <hi>page 27.</hi>
+               </item>
+               <item>
+                  <label>Sect. 17.</label> Anſwers to that which Mr. <hi>Moor</hi> hath ſaid page <hi>14.</hi> concerning the price of land trebled upon Incloſure. <hi>page 29.</hi>
+               </item>
+               <item>
+                  <label>Sect. 18.</label> Anſwers to that which Mr. <hi>Moor</hi> hath ſaid page <hi>19.</hi> concerning worldlings, greedy gripes, delighting to converſe with beaſts. <hi>page 30.</hi>
+               </item>
+               <item>
+                  <label>Sect. 19.</label> Anſwers to that which Mr. <hi>Moor</hi> hath ſaid page <hi>22, 23.</hi> concerning a curſe following Incloſure. <hi>page 32.</hi>
+               </item>
+               <item>
+                  <label>Sect. 20.</label> Anſwers to that which ſometimes is objected concern<g ref="char:EOLhyphen"/>ing the Churches right unto Tythes, and wrong done to Miniſters by Incloſure. <hi>page 35.</hi>
+               </item>
+               <item>
+                  <label>Sect. 21.</label> Anſwers to that which is ſometimes objected, that In<g ref="char:EOLhyphen"/>cloſure is a thing of evill report. <hi>page 36.</hi>
+               </item>
+               <item>
+                  <label>Sect. 22.</label> The concluſion of the precedent diſcourſe, with a pro<g ref="char:EOLhyphen"/>poſal of four queſtions to be anſwered by them that are adverſaries to Incloſure, and a quotation out of Mr. <hi>Fullers</hi> deſcription of a good Landlord. <hi>page 37.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:166754:5"/>
+            <head>CONSIDERATIONS concerning common <hi>FIELDS</hi> and <hi>INCLOS<g ref="char:V">Ʋ</g>RES,</hi> Dialoguewiſe digeſted into a deliberative diſcourſe, between two ſuppoſed friends, PHILOPEUSTUS and PARRHESIASTES.</head>
+            <div n="1" type="section">
+               <head>Section 1.</head>
+               <sp>
+                  <speaker>Philo.</speaker>
+                  <p>
+                     <seg rend="decorInit">S</seg>IR, have you ſeen a little diſcourſe lately publiſhed under this Title, The crying sinne of England, of not caring for the poor, and dedicated to the ſu<g ref="char:EOLhyphen"/>pream Authority of this Nation, the Par<g ref="char:EOLhyphen"/>liament of the Commonwealth of Eng<g ref="char:EOLhyphen"/>land, by <hi>John Moore</hi> Miniſter of the Church of <hi>Knaptoſt</hi> in Lieceſterſhire?</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>Yes, I have ſeen it, and not ſeen it onely, but likewiſe ſeriouſly conſidered of it, having purpoſely peruſed it divers times.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>I pray you then tell me your opinion of it. Hath the Author therein approved himſelfe ſuch an unanſwerable advocate for com<g ref="char:EOLhyphen"/>mon Fields againſt Incloſures, as by report it is pretended that hee hath?</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>What others may doe I cannot tell: but for my part I doe not perceive, that he hath ſpoken any thing at all to that purpoſe
+<pb n="2" facs="tcp:166754:6"/>It is true, that in the pathetick part of his diſcourſe he appeareth very zealous in behalfe of the poor, and bitter enough againſt thoſe that oppreſſe them, or do not take care for them: but the rationall part of his diſcourſe, wherein he pretends that he hath ſet forth thoſe oppreſſors to the life, is not indifferently extended unto all Incloſures, but expreſly limited and reſtrained unto ſuch as unpeo<g ref="char:EOLhyphen"/>ple towns and uncorne Fields, in the Title page: to the unſocia<g ref="char:EOLhyphen"/>ble, covetous, cruel brood of thoſe wretches, that by their Inclo<g ref="char:EOLhyphen"/>ſure doe unpeople towns and uncorne Fields, page 7. And in ſun<g ref="char:EOLhyphen"/>dry other places of his diſcourſe hee ſpeaketh reſervedly of theſe Incloſures, and ſuch Incloſures, but never, that I can obſerve of In<g ref="char:EOLhyphen"/>cloſure in general, as if he underſtood all to be unlawful. Nay rather he ſeems to take it for granted, that Incloſure is not unlawfull, if it be not ſuch as he complaineth of, which I the rather conceive to bee ſo, becauſe I have heard, that M<hi rend="sup">r</hi> 
+                     <hi>Moore</hi> himſelfe was once very ear<g ref="char:EOLhyphen"/>neſt for an incloſure, if he could have had it effected according to his own deſire. Yea more, my opinion of that diſcourſe is, that from the Doctrine, the proſecution whereof he propoundeth to him<g ref="char:EOLhyphen"/>ſelfe, as much may be inferred againſt common Fields, as can bee againſt Incloſures in general, and in particular more reaſonably a<g ref="char:EOLhyphen"/>gainſt the abuſes of common fields then of Incloſures, by how much, it is eaſier to reforme all the abuſes of Incloſures, without turning the ground into common again, then thoſe of common Feilds, without incloſing them. And to prove, not the lawfulneſſe alone, but even the neceſſity of Incloſure, for the benefit of the Common<g ref="char:EOLhyphen"/>wealth and prevention of poverty; there, needeth, I think, no bet<g ref="char:EOLhyphen"/>ter argument, then may be gathered out of that diſcourſe. So that the adverſaries of Incloſure in general, I think, will give M<hi rend="sup">r</hi> 
+                     <hi>Moore</hi> but little thanks for it, when they truly underſtand the conſequents thereof. Page 2. His doctrine is, That they are not ordinary ſin<g ref="char:EOLhyphen"/>ners, but <hi>Judas</hi>-like ſinners, that care not for the poor. It is no lit<g ref="char:EOLhyphen"/>tle ſinne, but a wrath-provoking ſinne, not to care for the poor: yea, God and Chriſt (ſaith he) care not for thoſe Nations, thoſe places, thoſe perſons, that care not for the poor. If to this Propoſition you adde this Aſſumption, but they care not for the poor (under<g ref="char:EOLhyphen"/>ſtand it as they ought to doe) who by hindering thoſe Incloſures, whereby the evils and abuſes of common Fields may bee reformed, are means either to make or continue men poor, the concluſion will bee, therefore, they are not ordinary ſinners, but <hi>Judas</hi>-like ſinners, that hinder theſe Incloſures. It is no little ſinne, but a
+<pb n="3" facs="tcp:166754:6"/>wrath-provoking ſinne, to hinder thoſe incloſures: yea, God and Chriſt care not for thoſe Nations, thoſe places, thoſe perſons, that hinder thoſe Incloſures, and thereby prevent the reformation of thoſe evils and abuſes in common Fields, which are means either to make or continue men poor.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>This me thinks is ſomewhat ſtrange: and yet, if you can make good the Aſſumption, I doe not ſee how the concluſion can be any way avoided.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>The Aſſumption I beleive may be eaſily made good, by inſtancing the many particular evils and abuſes, which abound, where the Fields lying open are uſed in common, and cannot bee reformed, but by Incloſure rightly ordered as it ought to be, or no way elſe ſo well.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>I pray you then do me the favour to mention ſome of thoſe particulars.</p>
+               </sp>
+            </div>
+            <div n="2" type="section">
+               <head>Sect. 2</head>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>I will, But firſt I think it not amiſſe to premiſe ſome general conſiderations, which are of much importance in this caſe.</p>
+                  <p>One is, that ſinne is alwaies an accurſed thing: eſpecially then, when it is moſt generally practiſed, with the leaſt regret of conſci<g ref="char:EOLhyphen"/>ence, and there, where the reformation of it is, not only not endea<g ref="char:EOLhyphen"/>voured, but purpoſely oppoſed, when it is ſought.</p>
+                  <p>Another is, that as ſinne is alwayes the proper cauſe, ſo moſt an end it is, the ſpeciall occaſion, as of other miſeries amongſt men, ſo of povertie in particular.</p>
+                  <p>A third is, that the moſt effectual means to prevent and to remove as other miſeries amongſt men, ſo povertie in particular, is to put an end to ſinfull courſes.</p>
+                  <p>A fourth that then the beſt care is taken for the poor, when the moſt effectuall means is uſed to prevent, or to remove their po<g ref="char:EOLhyphen"/>vertie.</p>
+                  <p>A fift, that it is a dutie incumbent upon all that are members of a Commonwealth, as they have means and opportunitie, to the beſt of their underſtandings &amp; abilities, to endeavour the advance<g ref="char:EOLhyphen"/>ment of the publique benefit, which is but the <hi>ſumma totalis</hi> of all particular <hi>Items:</hi>
+                  </p>
+                  <p>A ſixt, that the greateſt advantage to the Common-wealth, that can be raiſed out of land, is then, when it is imployed unto that uſe eſpecially, for which it is fitteſt, and in ſuch manner, that the great<g ref="char:EOLhyphen"/>eſt proportion of profit may be raiſed, with the leaſt expence of charge.</p>
+               </sp>
+            </div>
+            <div n="3" type="section">
+               <pb n="4" facs="tcp:166754:7"/>
+               <head>
+                  <hi>Sect.</hi> 3.</head>
+               <sp>
+                  <p>Theſe things premiſed, and taken for granted, which I think in reaſon cannot be denyed: The firſt particular inſtance that I wil give you, of the evils and abuſes in Common-fields, is the injurious dealing of neighbours one with another, treſpaſſing upon, and intruding into that which is not theirs, either careleſly, or wilfully. This, beſides the curſe which hangeth over the head of the wrong doer himſelf, is a great hinderance to the owner, whoſe right is taken by another, without any recompence to him. Thus, where fields lye open, and the land is uſed in Common, he that is rich, and full ſtocked, eateth, with his cattle, not his own part onely, but likewiſe his neighbours, who is poor, and out of ſtock. Beſides that it is an ordinary practice with unconſciona<g ref="char:EOLhyphen"/>ble people to keep above their juſt proportion, untill they thinke there wil be notice taken of it, and then to remove their cattle out of ſight, that they may not be obſerved. And with ſome, not onely to encroach upon other mens lands, and upon the Common by plowing further then they ought to doe, in balks and hades, but likewiſe to remove meer ſtones, to deface the marks of other mens lands, and where they finde leas not marked at all, to mark them as their own. And I beleeve it may be ob<g ref="char:EOLhyphen"/>ſerved, that for the moſt part, the greateſt complainers againſt, and op<g ref="char:EOLhyphen"/>poſers of Incloſure, either in generall or upon equall and indifferent termes, are ſuch as have been accuſtomed unto, or deſire they may have liberty to practiſe ſuch licentious courſes.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>But ſome of this me-thinks is not ſo much to be complained of, as you ſeem to conceive: For the poor man, that hath not ſtock of his own to ſtore his Commons with, may ſet them unto other men, and ſo not be deprived of his right.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>It is true that ſometimes he may doe ſo, but not without much diſadvantage to himſelf: For the benefit which he ſhould have, if the ſtock were his own, accrews unto him, to whom he ſets his Commons; who will be ſure not to take them, but at ſuch an under rate, as that hee may make advantage to himſelf thereby. Which if it be not <hi>damnum emergens,</hi> an encreaſe of loſſe, muſt of neceſſity be <hi>lucrum ceſſans,</hi> an a<g ref="char:EOLhyphen"/>batement of profit to the owner. And by this meanes in Common-fields many times, not Tenants alone, but even Freeholders alſo are eaten out of all, and reduced to beggary. But what meanes of redreſſe can you ima<g ref="char:EOLhyphen"/>gine may be had in Common-fields, for the rich mans eating up the poor mans Commons in caſe he can neither ſtock them himſelf, nor ſet them unto others?</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>As much I ſuppoſe, as if his land were incloſed, and that he could not have a Tenant for that part which hee could not ſtock himſelf.</p>
+               </sp>
+               <sp>
+                  <pb n="5" facs="tcp:166754:7"/>
+                  <speaker>Par.</speaker>
+                  <p>No, therein you are deceived: For, in a ground inloſed, that graſſe which he hath not cattle of his own to eat, if he cannot, or be not minded to ſet it to another, he may either mow, if it be fit for hay, or elſe preſerve for his own uſe againſt another time, when he can get ſtock to put upon it, or if he cannot ſo ſoon as he would, yet the land at the leaſt would be improved by it againſt another time; whereas in a Common-field it would bee eaten bare by others, without any re<g ref="char:EOLhyphen"/>compence at all to the owner. So the two great rules of Moral righte<g ref="char:EOLhyphen"/>ouſneſſe, <hi>Suum cui<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>,</hi> Render to all their dues, <hi>Rom.</hi> 13.7. and, <hi>Quod tibi fieri non vis, alteri ne feceris,</hi> All things whatſoever ye would that men ſhould doe to you, doe ye even ſo to them, <hi>Mat.</hi> 7.12. are both tranſgreſſed, by meanes of this one unremediable evill, which fields ly<g ref="char:EOLhyphen"/>ing open, and uſed in common, are ſubject unto. And why ſhould not all that Maſter <hi>Moor</hi> in his diſcourſe hath ſaid againſt oppreſſion and wrong-doing, be applyed as well to oppreſſion and wrong-doing in com<g ref="char:EOLhyphen"/>mon fields, as in grounds that are incloſed?</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>But why ſhould you pretend a breach of thoſe rules of morall righteouſneſſe, by the rich mans eating up the poor mans Commons, when the rich man Commoneth no more, then his proportion commeth to? For although it happeneth ſo, that the poor mans Commons not being ſtored, the rich mans cattle doe feed upon them, yet it is not the rich mans intent, or deſire that it ſhould be ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>If that were alwaies true, and you could likewiſe adde, that he took no content or pleaſure in it, but were ſorry for it, you ſhould ſay ſomething to free the rich man from being guilty of approving himſelf in doing wrong, though not to repair the poor mans loſſe. But then, why doe not ſuch rich men, where the fields lye open, and are uſed in com<g ref="char:EOLhyphen"/>mon, ſhew their care of the poor, by recompencing them for thoſe their Commons, according unto the proportion of the profit, that accrews unto themſelves thereby? Is not neglect of the poor in this, which is a means both to make, and to keep them poor, as crying a ſinne in Common<g ref="char:EOLhyphen"/>fields as it is in Incloſure not to relieve them out of a mans own, wherein they can challenge no intereſt or right at all, but of charity? Mee<g ref="char:EOLhyphen"/>thinkes it ſhould not be denyed by any man, that pretendeth care of the poor. But what doe you ſay to treſpaſſes and intruſions in Common fields?</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>I ſay they are not proper unto Common-fields alone, but the like objection may bee made againſt Incloſures, alſo. Hee that hath the conſcience to put cattle upon Commons, either more then he hath right to doe, or where he hath no right at all, it is very like, will make little
+<pb n="6" facs="tcp:166754:8"/>ſcruple to do ſo in ground incloſed alſo, if he can finde a fit oppor<g ref="char:EOLhyphen"/>tunity to ſerve his turne.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>You doe well to ſay ſo, if he can finde a fit opportunitie to ſerve his turne: for that indeed makes a very great difference be<g ref="char:EOLhyphen"/>tween common Fields and grounds incloſed, namely, that ill con<g ref="char:EOLhyphen"/>ditioned unconſiderable people have not the like opportunities to ſerve their turnes in theſe, as they have in thoſe. If the fences a<g ref="char:EOLhyphen"/>bout incloſed grounds be good, and the gates kept faſt, other mens cattle cannot eaſily be turned in, or if they be, may quickly bee ob<g ref="char:EOLhyphen"/>ſerved. But all the wrong in this kind is not done with looſe cat<g ref="char:EOLhyphen"/>tle alone. It is a thing too uſuall in common Fields for one man to treſpaſſe upon another, when ground, either for graſing, or for mowing, is ſeverally lotted out: thoſe who have conſciences large enough to do it, will lengthen their ropes, or ſtake them down ſo, that their horſes may reach into other mens lotts, and either in mowing or in making their hey, will adde unto their own by ta<g ref="char:EOLhyphen"/>king from another mans. And for the removing or altering of land marks, the abuſe is ſo groſſe, that no man I think can bee ſo ſhame<g ref="char:EOLhyphen"/>leſſe, as to offer any excuſe for it, though many be neither aſhamed nor affraid to practiſe it. Now all unrighteouſneſſe is ſinne, 1 <hi>John</hi> 5.17. And God is the avenger of all ſuch as goe beyond or defraud (the margin of our bibles hath it, oppreſſe, or overreach) their brethren in any matter. 1 <hi>Theſ.</hi> 4.7. So that, if it were but for this one thing alone, incloſure rightly ordered, would be neceſſary to deliver him that is ſpoiled out of the hand of the oppreſſor, that he may doe no wrong, <hi>Jer.</hi> 22.3. Yea to deliver them out of the hand of the Lord, who otherwiſe would commit a treſpaſſe againſt him by wronging other men, <hi>Joſh.</hi> 22.31.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>It is true as you ſay; theſe evils are great, and ſuch, as for which men may be juſtly puniſhed by God himſelfe, yea peradven<g ref="char:EOLhyphen"/>ture ſometimes are. But there may be other means of redreſſe then by Incloſure onely. The parties that are wronged may be righted by law, and treſpaſſers taught to take heed of doing wrong, by being made to pay dearly for it.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>It is true, they may be ſo, when the wrong done, is not only taken notice of, but alſo may be proved againſt him that hath done it: and were it not for that, there were no living for honeſt men, where the Fields lying open are uſed in common. But would it not be better that the evill it ſelfe ſhould be prevented, then honeſt men be neceſſitated, either to have recourſe to that remedie, or ſuf<g ref="char:EOLhyphen"/>fer
+<pb n="7" facs="tcp:166754:8"/>perpetually without redreſſe? <hi>Bonum eſt cauterium, ſed quo mihi vulnus ut indigeam canterio.</hi> Phyſick is good, but not to have need of it is better. Beſides that, the wrong done is not the leſſe, nor will the puniſhment from God be the lighter, when it is done ſo ſecretly and ſubtilly, that either it is not taken notice of at all, or cannot be proved. Are not law ſuits, and actions of treſpaſſe, par<g ref="char:EOLhyphen"/>ticularly complained of by M<hi rend="sup">r</hi> 
+                     <hi>Moore,</hi> as means to make men beg<g ref="char:EOLhyphen"/>gers, and undoe them? page 13. If <hi>cauſa cauſae, be cauſa cauſati,</hi> if effects muſt be attributed, not onely to the next immediatly prece<g ref="char:EOLhyphen"/>ding, but likewiſe to remote antecedent cauſes, then keeping Feilds in common, which gives opportunitie to treſpaſſes, and conſe<g ref="char:EOLhyphen"/>quently occaſion to law ſuits, cannot but bee in ſome ſort guilty of that poverty, which followeth upon ſuch ſuits. And therefore they that will not permit the prevention of thoſe ſuits, and ſo of that poverty, by giving way unto the removall of the occaſion, by In<g ref="char:EOLhyphen"/>cloſure rightly ordered, ſure care not for the poor, ſo as they ought to do. And yet this it not all the wrong, that uſually is done in common Fields. In all, or moſt townes where the Fields lie open and are uſed in common, beſides houſes of husbandry, and ancient cottages, that have right of common, there is a new brood of up<g ref="char:EOLhyphen"/>ſtart intruders, as inmates, and the inhabitants of unlawfull cotta<g ref="char:EOLhyphen"/>ges erected contrary unto law; who live upon the ſpoyle of other men, without making difference of any, rich or poor, whether they are able to bear it or no, they are ſure to ſuffer by them. And if they be found with that, which any man may tell is not their own, becauſe all men may be ſure they ſhould have nothing there: yet no man in particular can challenge them for it, unleſſe he take them in the very act upon his own ground, not that which he hath right unto in common with others, but that which is diſtinctly known to be his: and then if they be but threatned that they ſhall be legally queſtioned, and puniſhed for it, they on the otherſide threaten to leave their charge, their wives and children, on the town to bee provided for. So that in moſt places, the old ſtocks are not able to maintain the new ſprung branches, except they can draw more nouriſhment unto themſelves, by preventing thoſe diſorders, which drain it away from them. When the beſt living in a town is hard<g ref="char:EOLhyphen"/>ly ſufficient to finde maintenance and imployment for one familie, how ſhall three or four, as ſometimes it hapeneth, be ſuſtained upon it? And thoſe for the moſt part not of labourers, but of loyterers, who will not uſually be got to work, unleſſe they may have ſuch
+<pb n="8" facs="tcp:166754:9"/>exceſſive wages, as they themſelves deſire, but chooſe rather to bee idle, if not worſe imployed. Can any man in reaſon, and with a good conſcience pretend, that to ſuffer ſuch people to goe on in their ſinnes, without reformation, or reſtraint is to have care of the poor? unleſſe men may be ſaid to have care of the poor then, when they take a courſe, that they may continue alwaies poor, and never be otherwiſe.</p>
+               </sp>
+            </div>
+            <div n="4" type="section">
+               <head>Sect. 4.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>But do you think that by Incloſure this may be remedied?</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>Yes, very eaſily. Let every man that hath right unto any land, either as a freeholder, or as a tenant, have the ſame propor<g ref="char:EOLhyphen"/>tion of land allotted him to occupy in ſeveral, as before he had, or ſhould have had, in common: and then, by rayſing greater profit to himſelfe, he ſhall be better able, both to pay weekly contribution for the relief of the impotent poor, and to bear his part in the ray<g ref="char:EOLhyphen"/>ſing of a ſtock to ſet the able poor on work: which are the onely two courſes, which the law hath provided, whereby care is to bee taken of the poor, and would bee fully ſufficient to that purpoſe, if duly put in practiſe, as they ought to be: and both of them may be as well put in practiſe, where lands are incloſed, as where they lye open, and are uſed in common if not better.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>It ſeems then, when the land belonging to a town is inclo<g ref="char:EOLhyphen"/>ſed, you would not have any of the inhabitants turned out, or the houſes pulled downe.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>No, by no means, nor would they be at all, if conſcionable care were taken for the due execution of that, which the law hath ſufficiently provided for, namely, that houſes of husbandry be not decayed, nor cottages unlawfully erected, or inmates entertained. But, where houſes of habitation have been erected, or inmates en<g ref="char:EOLhyphen"/>tertained contrary unto law, as I would not have them preſently pulled down, or the inhabitants turned out, ſo neither would I have them continued any longer, then of neceſſity they muſt bee, that is, untill they grow empty of inhabitants: unleſſe that the con<g ref="char:EOLhyphen"/>tinuance of them by entertaining other inhabitants, may be found convenient for the town in generall, as well as for the owners in particular: and then I would have ſome land laid unto them; at leaſt ſo much, as is required by the law. For ancient cottages, which are not houſes of husbandry, in the interpretation of the law, as the law hath made no proviſion for them, ſo I would have them left to the owners diſcretion, when they grow voyd, either by the
+<pb n="9" facs="tcp:166754:9"/>deceaſe, or voluntary departure of the preſent inhabitants, to take them down, or to imploy them otherwiſe, or to take in new Te<g ref="char:EOLhyphen"/>nants, if they ſee good; So that be it not to the wrong of their neigh<g ref="char:EOLhyphen"/>bours, or to the prejudice of the other poor; who the fewer they are in any place, the better they may be there relieved, or other<g ref="char:EOLhyphen"/>wiſe provided for. And yet their madneſſe is ſuch many times, that they will bitterly exclaim againſt thoſe men that will not give way to the increaſe of their numbers, by the bringing in of others a<g ref="char:EOLhyphen"/>mongſt them; or that would have all idle Beggars, Rogues, and Va<g ref="char:EOLhyphen"/>grants, that wander up and down without a calling, to be reſtrained; to whom in moſt country towns there is commonly given by the inhabitants, almoſt every day, as much as might ſerve in a competent manner to relieve their own poor.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Although you may be of this mind as you pretend, yet it ſhould ſeem that few Incloſers heretofore have been, or yet are ſo; as may appear by thoſe complaints, which Mr. <hi>Moor</hi> hath mentioned <hi>pag.</hi> 9, 10, 11. of Tenants and Cottiers diſcharged of their Tene<g ref="char:EOLhyphen"/>ments, and turned out of their houſes.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>That ſuch complaints are commonly made, and not without cauſe ſometimes, is very likely to be true. But I can hardly believe that all, who make ſuch complaints, have alwayes ſuch cauſe as they pretend. For it is certaine, that ſome have been pretended to be diſcharged, and turned out, who voluntarily did chooſe to be gone, and might have tarryed, if they would. But as thoſe who have been bred and brought up to be wandring beggars, will not be content with good entertainment in honeſt mens houſes, eſpecially if they bee conſtantly put to any good employment: So thoſe that have been uſed to wrong doing, and treſpaſſing upon others in common fields, cannot endure to live where they muſt be reſtrained of that liberty, and will be ſure to pretend themſelves wronged, if they be not permitted to doe wrong to others. But in caſe not one of all the complaints in that kind, which Maſter <hi>Moore</hi> hath heard, were cauſleſs, and unjuſt; yet this is certain, there have been Incloſures made which have not unpeopled Towns, where none, either Te<g ref="char:EOLhyphen"/>nants, or Cottiers have been diſcharged or turned out; and ſo may bee againe, without giving juſt occaſion to any ſuch complaints. Therefore to urge thoſe complaints as an argument againſt all In<g ref="char:EOLhyphen"/>cloſure, to prove it unlawfull, were to inferre an univerſal conclu<g ref="char:EOLhyphen"/>ſion upon particular premiſes; which no good diſputant will doe.</p>
+               </sp>
+            </div>
+            <div n="5" type="section">
+               <pb n="10" facs="tcp:166754:10"/>
+               <head>Sect. 5.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>This which you have ſayd may be ſomething, per<g ref="char:EOLhyphen"/>haps, in reſpect of Depopulation, or un-peopling of townes, but what will you ſay to the decay of Tillage, or un-corning of fields by Incloſure?</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>I ſay it is no neceſſary effect of Incloſure in generall, nor any effect of Incloſure at all, if it be rightly ordered, as it ſhould bee; but rather the contrary. More Grain may be raiſed, and with leſſe charge, in grounds incloſed, then in Common fields; if that which hath been tilled out of heart, and is weary of bearing, be laid down to reſt, and that which is reſty be broke up and tilled. Which may well bee done in grounds that are incloſed, but cannot be done in Common fields, where land muſt be uſed as hath been accuſtomed, and cannot be otherwiſe, without a joynt conſent: which common<g ref="char:EOLhyphen"/>ly is as hard to be obtained, as agreement to Incloſure. By this means in common fields much land is continued in tillage, which for the preſent is not fit for it, but after a reaſonable time of reſt wold be: And much is continued in Graſing, which for a time were fitter to be Corned, and afterward, being layd down againe, would bear better Graſſe then formerly it did. Thus to the great prejudice of the Commonwealth in generall, as well as of the owners in par<g ref="char:EOLhyphen"/>ticular, the land in common fields is not imployed to the uſe that it is fitteſt for, nor ſo much Corn as might be raiſed. For it is well known by experience, that a few Acres of reſty ground incloſed, with one plowing only, and leſſe ſeed, will ordinarily yeeld a grea<g ref="char:EOLhyphen"/>ter increaſe then more Acres, and a greater proportion of ſeed, are wont to doe in common fields with divers plowings. Beſides that, in common fields, where divers mens lands lye intermixt, and e<g ref="char:EOLhyphen"/>very mans lands diſperſed ſo, that many parcels in many places, and ſometimes far aſunder, goe to make up one Acre, there is occa<g ref="char:EOLhyphen"/>ſion of great inconvenience, and charge to the owners divers waies. Many dayes workes are caſt away, and much labour is loſt in the plowing of the land, in the carriage of Manure, and inning of the crop, which might be ſpared, if the land lay all together, as it doth in Incloſures. Beſides the wrong that is many times done to other men by carting over, and turning, and winding upon their lands; and ſo in the Meddows by treading down, and driving over one a<g ref="char:EOLhyphen"/>nothers Graſſe.</p>
+                  <p>Again, where the fields lying open are uſed in common, for the moſt part in the winter time cattle of all ſorts, both ſmall and great, are ſuffered at their pleaſures to goe over the fields, where Corn is
+<pb n="11" facs="tcp:166754:10"/>ſown, and do more hurt with their feet then with their mouthes, e<g ref="char:EOLhyphen"/>ſpecially when the weather is wet: and in the ſummer time, much coſt and ſpoil is made in the corne, both whilſt it is growing, and when it is cut, by horſes breaking looſe, and by the great heards of cattle, that are dayly driven up and down between the furlongs, ſometimes in narrow paſſages: ſo that uſually the lands lying, next to thoſe paſſages on either ſide, or butting on the common grounds, have little or nothing left upon them at harveſt, to the prejudice of the owners in particular, and of the Commonwealth in general, which proportionably ſuffers in every mans loſſe.</p>
+                  <p>Again, in common Fields the land is much impoveriſhed, not onely by being continually kept in tillage without reſt, which in its kind is as neceſſary for it, as for living creatures, but likewiſe by the burning of dung, and of ſtraw, for want of other fuel, with which the land might be manured. But uſually the hedges upon grounds that are incloſed, ſerve in a good meaſure, if not altoge<g ref="char:EOLhyphen"/>ther, to ſupply that want: and beſides the profit of fruit trees, if they be planted there, they likewiſe afford good ſhade and ſhelter for cattle, which in common Fields they cannot have, though it bee many times almoſt as neceſſary for them as their meat.</p>
+               </sp>
+            </div>
+            <div n="6" type="section">
+               <head>Sect. 6.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>The ſupply that ariſeth out of hedges for fewell I confeſſe is a good convenience, where wood is ſcarce, and coal not to be had, or only at exceſſive rates: but for the manuring of the arable land with dung and ſtraw, that want is well ſupplyed in common Fields by the folding of ſheep.</p>
+               </sp>
+               <sp>
+                  <speaker>Par</speaker>
+                  <p>It may be not ſo well as you think: nor would it appear to be ſo, if all things ſhould be well conſidered. For, firſt, The manu<g ref="char:EOLhyphen"/>ring of land with the fold ſerveth onely for one year: and after the firſt croppe the land is left as barren as before. The reaſon whereof I conceive to be, becauſe the ſtrength of the dung is much exhaled, ſpent and waſted by the weather, it lying long on the face of the earth not plowed in, and ſo being turned, either to duſt in a dry, or unto dirt in a wet ſeaſon. Secondly the manuring of land with the fold is many times dearly paid for, with the loſſe of the flock by the rot. Thirdly, in caſe the ſheep eſcape the rot, yet nei<g ref="char:EOLhyphen"/>ther in their bodies, nor in their fleeces, doe they yeeld ſo much profit, as they might doe in grounds incloſed. Whereof the later, the fleece in grounds incloſed is uſually fit to be combed for jerſey, which in common Fields it is not: and combing of wooll for jer<g ref="char:EOLhyphen"/>ſey is likely, by the new manufactures, to prove a farre greater bene<g ref="char:EOLhyphen"/>fit
+<pb n="12" facs="tcp:166754:11"/>to the Commonwealth, then clothing along, either is or can be. And yet, if manuring of land with the fold be any way advantagi<g ref="char:EOLhyphen"/>ous, it may be practiſed as well in grounds incloſed, as in common Fields, or rather better: becauſe, when the ſeaſon is not fit for fold<g ref="char:EOLhyphen"/>ing, the ſheep may be left at large in the paſture, without any dan<g ref="char:EOLhyphen"/>ger of treſpaſſing in the meddowes, or on the corne, which in com<g ref="char:EOLhyphen"/>mon Fields they cannot be.</p>
+               </sp>
+            </div>
+            <div n="7" type="section">
+               <head>Sect. 7.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>But in grounds incloſed there cannot be kept ſo many cattel either great or ſmall, as uſually are kept in common Fields.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>It may be ſo: and yet fewer cattle kept in paſture grounds may yeild the owners greater profit, then more cattle of the ſame ſorts kept in common Fields can doe: and that in divers reſpects.</p>
+                  <p>As firſt, they require leſſe attendance, and ſo put the owner to leſſe charge.</p>
+                  <p>Secondly, they are not ſubject to ſo much hazard. Sheep that are naturally quiet cattle, being hunted and hurried with doggs (as uſually they are in common Fields, to keep them within their compaſſe) are apt to get heats, to grow ſcabbed and break, which is not ſo in grounds incloſed: beſides that which was obſerved be<g ref="char:EOLhyphen"/>fore, concerning the loſſe of ſheep in common Fields by rotts: which many times is as great as the yearly rent of the whole Lord<g ref="char:EOLhyphen"/>ſhip would amount unto. And amongſt great cattle in the common Fields, the weaker are wont to be hurt by the ſtronger, when they are driven togeather in a throng, by fighting, ruſhing, goaring, and the like: and are apt to be tainted by one another in times of in<g ref="char:EOLhyphen"/>fection: all which in conveniences are much prevented by Inclo<g ref="char:EOLhyphen"/>ſure.</p>
+                  <p>Thirdly, where the Fields lying open are uſed in common, which kine being in the ſummer time kept faſting all night, and lodged on the hard ſtones, and in the day time driven up and down from place to place, their milk is not onely leſſe in quantity, but likewiſe worſe in quality, being often ſo heated in their udders, that it cannot bee ſo good for uſe in butter, and cheeſe, as other<g ref="char:EOLhyphen"/>wiſe it might bee, and is in grounds that are incloſed.</p>
+                  <p>Fourthly, where the fields lying open are uſed in common, when the weather is wet, the cattle, by driving to and fro, make foul the wayes, and having therein firſt dirtied themſelves, then ſtain the ground, and make the graſſe unholſome: which is not ſo in grounds incloſed.</p>
+                  <p>
+                     <pb n="13" facs="tcp:166754:11"/>
+Fiftly, where the fields lying open are uſed in common both greater &amp; leſſer cattle, contrary to their natures, are conſtrained to reſt, when they would feed, &amp; feed when they would reſt: yea ſome<g ref="char:EOLhyphen"/>times are not ſuffered to be quiet, even while they are feeding, but kept going &amp; eating together; which is not ſo in grounds incloſed.</p>
+                  <p>Sixtly, where grounds are incloſed, both the grounds and the cattle may be ſeverally uſed, as is fitteſt for each: ſtore cattle may be put upon grounds that are fitteſt for ſtore, and feeding cattle upon feeding grounds. The owners may put off, or put on, ei<g ref="char:EOLhyphen"/>ther fewer, or more, from time to time, as they find it moſt con<g ref="char:EOLhyphen"/>venient, and wait the beſt times both for ſelling, and buying again with the greateſt advantage, their grounds in the mean time ga<g ref="char:EOLhyphen"/>thering head, ſo long as they are not fully ſtockt: whereas in com<g ref="char:EOLhyphen"/>mon Fields, all ſheep by themſelves, and other cattle by themſelves, go togeather, young and old, ſick and ſound, fat and lean: and when ever any are taken off, others muſt be preſently put on in their ſteed or elſe the commons, in the mean time, will be loſt from the ow<g ref="char:EOLhyphen"/>ner, and eaten up by other mens cattle, as was ſaid before. So u<g ref="char:EOLhyphen"/>ſually after maths in common Fields are never let grow to any good head: but, all being eaten bare before hand, long and hard winters make lean and hungry cattle, and poor diſtreſſed husband<g ref="char:EOLhyphen"/>men. And, as it is generally to be obſerved, that the richeſt coun<g ref="char:EOLhyphen"/>treys in the land are thoſe that are incloſed, ſo in particular townes ir may be ſeen, that not freeholders only, but even tenants alſo, thrive better there, where their lands are incloſed, though they pay farre greater rents for them, then they doe in common fields, though the rents, which they pay, bee leſſe by much. Yea, in ſome places it is certainly known, that the incloſure of their meddowes onely, though the reſt of the land were ſtill left open, hath been a great benefit to the inhabitants, and a means to redeem them from a poor unto a rich condition: much more might it have been ſo, if their paſture grounds alſo, as well as their medowes had been ſo in<g ref="char:EOLhyphen"/>cloſed: and yet more, if their tillage likewiſe had been laid to<g ref="char:EOLhyphen"/>gether, each mans by it ſelfe, whether they had incloſed it, or no, ſo that they had only put an end unto their cuſtome of common: which is the great occaſion of many diſorders, where the fields lye open, and which without incloſure are never likely to be redreſſed. But, if all places were incloſed, upon equall and indifferent termes for all that have right there, and with due reſpect unto pro<g ref="char:EOLhyphen"/>viſion for the poor, the ſcandall, I believe, would quickly
+<pb n="14" facs="tcp:166754:12"/>ceaſe, and all occaſions of complaint be taken away.</p>
+               </sp>
+            </div>
+            <div n="8" type="section">
+               <head>Sect. 8.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>That may be your opinion perhaps; but notwith<g ref="char:EOLhyphen"/>ſtanding all that you have ſaid, there are divers paſſages in Maſter <hi>Moores</hi> diſcourſe, which ſome men (thoſe that would have it ſo at leaſt) will think doe make againſt incloſure in generall, even that which is ordered in the beſt ſort that can be deviſed, and not onely againſt that, which alone (as you obſerved) it ſeemeth he did intend to ſpeak of, <hi>viz.</hi> ſuch as doth un-people towns, and un-corn fields. I pray you let me hear what you can ſay concerning them.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>I eaſily believe, it may be ſo: For commonly things appeare to mens eyes, as if they were of the ſame colour with the glaſſes, thorough which they are looked upon; and uſually ſuch glaſſes, to the minds of men likewiſe, are prejudice, and partiality: with which that thoſe paſſages, which you ſpeak of, in Maſter <hi>Moores</hi> diſcourſe, may not be diſcoloured, when you repeat the words, I ſhall quickly tel you what I think of them.</p>
+                  <p>But firſt I have ſomething more to ſay, concerning the inconve<g ref="char:EOLhyphen"/>niences. or miſchiefs rather, which they are ſubject to, who live where the fields lying open are uſed in common. As this, that there is a great deal of land in common fields, which formerly hath been good, and might be ſo again, utterly ſpoyled for want of good huſ<g ref="char:EOLhyphen"/>bandry. I know a place, where by this meanes the Commons were ſo impaired, that the inhabitants agreed to abate of their ancient uſual ſtint one ſheep in ſix, and one cow in three, and yet did con<g ref="char:EOLhyphen"/>feſs, that formerly their cattle had fared better at the long ſtint, then afterward they did at the ſhort; but they would not be perſwaded to beſtow better husbandry upon their land, though they thought it neceſſary to make a greater abatement in the number of the cattle which they kept upon it. And ſo by degrees, through the neglect of good husbandry, their Commons in time muſt needs have come to be but little worth: and yet they pretended, that they lived on their Commons onely, and that their tillage did not quit their coſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>But they might have beſtowed better husbandry on the land if they would, and ſo the cauſe of that complaint might have been taken away.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>By a generall agreement of all to that purpoſe they might; otherwiſe they could not, unleſs ſome alone ſhould have been at the charge for all. And that is one great evil in common fields, that they who would be good husbands cannot, when other perverſe conditioned people are not minded to permit them. But where
+<pb n="15" facs="tcp:166754:12"/>grounds are incloſed, if any man wil be a good husband on the land which he holdeth, he may, if he wil not, he hurteth himſelf alone, and not his neighbours, nor needeth to be hurt by them, unleſs it be through his own default. Another thing, which in common fields is a great means of making and keeping men poor, and more of late then heretofore, is, that all publique paiments, as taxes and the like, are laid according to the number of the yard lands as they are uſually accounted, and valewed alike, though ſome times there is ſcarce halfe ſo much profit made of one as of another. A poor man for a ſmall yard land, and peradventure not halfe ſtocked, ſhall pay as much as a rich man doth for a great one ſtocked to the full: and ſo the poorer that a man is already, the poorer, and poor<g ref="char:EOLhyphen"/>er ſtill it is like he ſhall be.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>This might eaſily be prevented in common fields, as well as in grounds incloſed, if all payments were proportioned accor<g ref="char:EOLhyphen"/>ding unto the pound rent for the land, and the ſtocks valued ſeve<g ref="char:EOLhyphen"/>rally.</p>
+               </sp>
+               <sp>
+                  <speaker>Per.</speaker>
+                  <p>Peradventure not ſo eaſily as you imagine. For in com<g ref="char:EOLhyphen"/>mon fields although the yard lands be not equal, either in quantity, or in quality, yet becauſe they have like proportions of commons appertaining unto them, whether they be furniſhed with ſtock or no, the inhabitants will never be perſwaded to charge them other<g ref="char:EOLhyphen"/>wiſe then equally; as they have been accuſtomed. Whereas in grounds incloſed there is commonly conſideration had, in the va<g ref="char:EOLhyphen"/>luation of them, both to the quantity and to the quality: or if un<g ref="char:EOLhyphen"/>to the quantity onely, yet it is upon ſuppoſition, that one with another there is no much conſiderable difference in the quality: And for the valuation of ſtocks, it is an endleſſe piece of work to ex<g ref="char:EOLhyphen"/>amine whoſe they are, and a means to ſet all men at variance. Ano<g ref="char:EOLhyphen"/>ther thing is, that where grounds are incloſed, cattle cannot eaſily go away of themſelves, or be driven out, but that they may quickly bee miſſed, and tracked: whereas in common fiields they may wander of themſelves, or be driven away by others, long before the owners can tell, either whether they be there, or whether they be gone: and ſometimes they are long in looking far for that, which at laſt they muſt find either neer at hand, or not at all. But, to trou<g ref="char:EOLhyphen"/>ble you no further now in this kind, let me hear, if you pleaſe, what it is in M<hi rend="sup">r</hi> 
+                     <hi>Moores</hi> diſcourſe, which you think may be ſuſpected to make againſt incloſure in general.</p>
+               </sp>
+            </div>
+            <div n="9" type="section">
+               <head>Sect. 9.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Page 7 hee ſaith, How great a ſhame is it for a
+<pb n="16" facs="tcp:166754:13"/>Goſpel magiſtracy not to ſuppreſſe make-beggers, which make ſuch ſwarmes of beggers in countries, Cities, and Townes? That care not how many beggers they make, ſo themſelves may be gentlemen; nor how many poor they make, ſo themſelves may be rich. I mean the unſociable covetous cruel brood of thoſe wretches that by their incloſure doe unpeople towns, and uncorne fields: who fall under the Prophets woe, <hi>Iſa</hi> 5.8. That joyn houſe to houſe, and field to field, till there be no place, that they may bee placed alone in the middle, of the earth, and be ridd of all the poor. What ſay you to this?</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>To this <hi>Iſay,</hi>
+                     <list>
+                        <item>1. that for the general it anſwereth it ſelfe, as was before obſerved, in that it is expreſly limitted and reſtrained unto thoſe, that by their incloſure doe unpeople townes, and un<g ref="char:EOLhyphen"/>corne fields; making no more againſt all incloſures, then the woe denounced againſt drunkards, in the 21 verſe of the ſame chapter doth prove all drinking to bee unlawfull.</item>
+                        <item>2. That it is as great a ſhame for a Goſpel magiſtracy not to ſuppreſſe make-beggers, which make ſuch ſwarmes of beggers in Countreys, Cities, and Townes, where the Fields lying open are uſed in common, as where they are incloſed: and ſo much the more, by how much the evill is more general, and of longer continuance, and people make leſſe conſci<g ref="char:EOLhyphen"/>ence of thoſe courſes there, which produce ſuch effects: I mean, as before, diſorder, unjuſt dealing, and the like.</item>
+                        <item>3. That for the text alleadged in particular, <hi>Iſay,</hi> 5.8. it is a wonder unto me, how M<hi rend="sup">r</hi> 
+                           <hi>Moore,</hi> or any man of an ordinary capacity, can imagine, that the holy Ghoſt, who knoweth very well, and better then men, how to expreſſe himſelf, by laying field to field, till there be no place, ſhould mean the incloſing of common fields, rather then the throwing o<g ref="char:EOLhyphen"/>pen of incloſures: whereas indeed to throw open incloſures, and to lay thoſe grounds common, which before were ſeveral, that ſo there may be no place for any man to enjoy his own with peace and quietneſſe, muſt needs be laying field to field, rather then to incloſe thoſe grounds, which before lay in common, that ſo, fields being orderly divided, every man may enjoy that which is his own in ſeveral to himſelfe with peace and quietneſſe, and that there may be place for others alſo to doe the like by theirs. But the truth is, as the word in the original tranſlated field, doth indifferently ſig<g ref="char:EOLhyphen"/>nify any ground, whether open or incloſed, that lyeth about an houſe, or a town, as belonging unto it: ſo the purpoſe of the holy Ghoſt is, to denounce a woe againſt all thoſe, whether rich or poor,
+<pb n="17" facs="tcp:166754:13"/>that either out of ambition or covetouſnes enlarge their own, either houſes or lands by adding unto them thoſe of other men wrongfully wreſted from the right owners, whether poor or rich, by fraud or by force, that there may be no place there leſt for any, but only for themſelves, though others have as much, or more, right unto it: paralel whereunto is that of <hi>Jer.</hi> 22.13, &amp;c. and <hi>Habak.</hi> 2.6, &amp;c.</item>
+                     </list>
+But ſuch unjuſt dealing may be, and is, for ought I know, as often pra<g ref="char:EOLhyphen"/>ctiſed there, where the fields lying open, are uſed in common, as where they are incloſed, if not oftner, as was before obſerved: And out of queſtion make-beggers, be they what they will bee in com<g ref="char:EOLhyphen"/>mon fields fall under the Prophets woe, <hi>Iſay</hi> 5.8. as well as there, where the grounds are incloſed.</p>
+               </sp>
+            </div>
+            <div n="10" type="section">
+               <head>Sect. 10.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Page 8. he ſaith, queſtion many of our beggers, that goe from dore to dore, with wife and children after them, where they dwell, and why they goe a begging. Alas, maſter (ſay they) we were forced out of ſuch a town, when it was incloſed, and ſince we have continued a generation of beggers.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>For the truth of this relation, we muſt take it upon the cre<g ref="char:EOLhyphen"/>dit of Mr <hi>Moores</hi> own teſtimony: and I will not deny, but that it may be he hath heard ſome beggers ſometimes ſay ſo. Yet I believe there are thouſands in England, that in their owne particulars are as charitably affected, and have given as much unto the poor as Mr <hi>Moore,</hi> who never heard ſuch expreſſions from any of them: It is like that Mr <hi>Moore,</hi> thus publiquely declaring himſelfe againſt in<g ref="char:EOLhyphen"/>cloſure, although it be but reſervedly, ſuch as he mentioneth, ſhall not want thoſe that will furniſh him with ſuch ſuggeſtions: but whether all that they tell him in that kind be true, or no, hee may doe well to enquire, and not take it upon truſt. <hi>Haudrecte facit, qui facile credit.</hi> It is not the propertie of a wiſe man to believe all that he hears, <hi>Prov.</hi> 14.15. And if it be granted the complaint was juſt, yet nothing can be inferred upon it, but the particular fault of thoſe parties only, by whom the occaſion of it was given.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>In the ſame page he further ſaith. When we take a view of the multitude of poore in market townes and fielden townes, we ſee how theſe poor wretches were driven out of their hive, their honey taken away, I mean their trade of plowing by ſuch incloſure, and glad were they to find an old houſe any where to put their heads in, where they might have any imploiment to keep themſelves and fa<g ref="char:EOLhyphen"/>milie alive.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>This is largely ſpoken: and I believe, if Mr. <hi>Moore</hi> were put
+<pb n="18" facs="tcp:166754:14"/>to prove it true, by an induction of particulars, hee could not name two Market-towns, wherein, I will not ſay all, but onely the greater part of the poor are ſuch as he ſpeaketh of, Bees that were driven out of their hives, and had their honey taken away, and not rather, either idle Drones, or angry Waſps, ſuch as ſuck the ſweet of other mens labours, and ſting them with bitter words at the leaſt, from whom they have their greateſt relief. Howſoever, if that which Maſter <hi>Moor</hi> hath there ſaid, were certainly true in every particular, yet to conclude from thence, that all Incloſure is unlawful, would but be ſtill the ſame fallacious way of arguing, <hi>à dicto ſecundùm quid ad dictum ſimpliciter.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div n="11" type="section">
+               <head>Sect. 11.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Page 9. he ſaith. For a groundwork we muſt lay this undeniable truth, <hi>viz.</hi> That the great Manufacture and Trade of <hi>Leice<g ref="char:EOLhyphen"/>ſterſhire,</hi> and many, if not moſt, of the inland Counties, is Tillage. It is the Plow whereby Tenants Cottiers, and their children were ſet a work, and lived very happily and comfortably before there was ſo much of ſuch Incloſure.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>That [ſuch] doth make this argument alſo juſt ſuch ano<g ref="char:EOLhyphen"/>ther as the former was, guilty of the like inconſequence, as to the proving of all Incloſure to be unlawful; and therefore I ſhould paſſe it over lightly, with the reſt of the ſame nature, but that I have ſome<g ref="char:EOLhyphen"/>thing to ſay concerning that which he termeth an undeniable truth, <hi>viz.</hi> That the great Manufacture, and Trade of <hi>Leiceſterſhire,</hi> and many (if not moſt) of the in-land Countries, is Tillage, <hi>&amp;c.</hi>
+                     <list>
+                        <item>Firſt. Suppoſe it be ſo, yet Incloſure, as was ſaid before, may be ſo ordered, that the Trade of Tillage ſhall not be decayed by it, but rather advanced: Yea that Tenants Cottiers, and their children may be ſet a work, and live more happily and comfortably after ſuch Incloſure then they did before.</item>
+                        <item>Secondly. Suppoſe it be ſo now, or hath heretofore been ſo, it it therefore neceſſary that it muſt be ſo alwayes? May not thoſe Counties hereafter have other Manufactures and Tradings, of as great or greater advantage, for the commonalty, yea for the Com<g ref="char:EOLhyphen"/>monwealth, as well, as Maſter <hi>Moore</hi> confeſſeth, other Counties have? Muſt <hi>Leiceſterſhire,</hi> and other in-land Counties only, by be<g ref="char:EOLhyphen"/>ing kept open, and uſed in common, be condemned unto a perpe<g ref="char:EOLhyphen"/>tuall expence of greater pains and charge, for the raiſing of leſs pro<g ref="char:EOLhyphen"/>fit and advantage, when if they were incloſed, as other Counties are, they might, as they do, raiſe greater advantage and profit, with leſſe expense of charge and paines? Maſter <hi>Moore</hi> ſaith it is the Plow whereby Tenants Cottiers, and their children were ſet on
+<pb n="19" facs="tcp:166754:14"/>work. Wee muſt underſtand him in thoſe places, where the fields lying open are uſed in common. But he doth not tell us how many Tenants Cottiers, and their children, yea even Freeholders alſo, in thoſe places, through diſorder and unjuſt dealing, have been ut<g ref="char:EOLhyphen"/>terly undone, and reduced to beggary. He doth not ſay, how many have there been trained up to idleneſs; and taught to doe almoſt nothing elſe, but to wait advantages of doing wrong to others. He doth not boaſt, how many of thoſe, that in ſuch places have been imployed about Husbandry in the ſummer time, in the winter time are turned off, either to beg, or ſteal, or ſtarve; or, that if they con<g ref="char:EOLhyphen"/>tinue ſtill with the ſame Maſters, their Winters maintainance, to do little or nothing, brings greater charge with it then their ſum<g ref="char:EOLhyphen"/>mers work was worth; ſo that many times the poor husbandman in his eſtate is fed upon, and eaten out of all, by them whoſe bodies he doth feed.</item>
+                     </list>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil</speaker>
+                  <p>In the ſame page he further ſaith. Other Counties have other Manufactures and Trading for the Commonalty, we Tillage, and the Plough, whereby wee breed multitudes of hardy men, and horſes for the ſervice of the Commonwealth, if need be; whereby we alſo ſend forth abundance of all manner of Corn and Grain, and peaſe-fed cattle to the City, to victual our Shipping at Sea, and to countreyes round about us: all fed with the Plow in the Common fields.</p>
+               </sp>
+               <sp>
+                  <speaker>Var.</speaker>
+                  <p>What its fed with the Plow in common fields, may as well, yea and better he fed with the Plow in grounds incloſed, as was ſaid before. And if we ſhould appeale unto the City to ſay from whence the greateſt abundance of proviſion both for ſea and land doth come, whether from thoſe countries, where the fields lying open are uſed in common, or from thoſe, where grounds are in<g ref="char:EOLhyphen"/>cloſed, the queſtion, I believe, would be quickly determined in the behalf of the countries incloſed, without any doubt or diſputa<g ref="char:EOLhyphen"/>tion about it. And for the multitudes of hardy men, which hee ſpeaketh of, if there could be ſeen a Liſt of all that have ſerved in the late Warres on every ſide, and that yet are in Arms, I believe there would be found but few that have come from the Plow to that im<g ref="char:EOLhyphen"/>ployment, in compariſon of other Trades. Many horſes indeed are uſed, or abuſed rather, where the fields lying open are uſed in common, but few bred there that are fit for good ſervice any where, even then when they are moſt ſet forth to ſhew. Hardly in any other thing, or in any other place, but where the fields lye open, and are uſed in common, is
+<pb n="20" facs="tcp:166754:15"/>there more, or ſo much cheating, couſenage, and deceitful dealing uſed. And, if queſtion may be made concerning hardy men, for which I know no reaſon way it ſhould, yet horſes out of doubt may better be bred in grounds incloſed then in common fields; whereof experience is ſufficient evidence.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Maſter <hi>Moor</hi> adds further in the ſame page. They make beggars of Tenants upon ſuch Incloſure: For the Tenant forthwith is diſchar<g ref="char:EOLhyphen"/>ged of Tillage and Farme to ſeek a living he knowes not where— And in ſome Towns there is fourteen, ſixteen, or twenty Tenants diſ<g ref="char:EOLhyphen"/>charged of plowing, all in this ſad condition, beſides many other teams and farmes of Freeholders layd down in the ſame Towns. What ſay you to this?</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>I ſay theſe reſtrictive termes of limitation, ſuch, and ſome, [upon ſuch Incloſure, in ſome Townes] make it needleſſe for me to ſay any thins, more then I have ſaid, to diſable it from doing any ſervice againſt Incloſure in generall; becauſe, with thoſe reſtrictive termes that which is ſo ſaid is nothing to the purpoſe, and without them would be falſe. Yet this let me tell you, that for Tenants to be diſcharged of Tillage, and of their Farmes, and for Teams to be layd down, as it is no neceſſary effect, ſo neither is it any proper adjunct of Incloſure. It doth neither <hi>convenire omni,</hi> nor <hi>ſoli,</hi> nor <hi>ſemper.</hi> Not <hi>omni;</hi> for Incloſures may be, yea have been, made, and Tenants neither diſcharged of Tillage, nor of Farmes. Not <hi>ſoli;</hi> for Tenants have been, and may be, diſcharged of Tillage, and Farmes, and Teames layd down, in Common-fields. Not <hi>ſemper;</hi> for even in grounds incloſed, there where Tillage and Teames have been layd down, and Tenants diſcharged, at ſome times, at other times Tenants have been entertained, and Tillage, and Teames ſet up again. But whether the fields lying open are uſed in common, or be in<g ref="char:EOLhyphen"/>cloſed, why ſhould not the Landlord have liberty to diſcharge the Te<g ref="char:EOLhyphen"/>nant, when his time is expired, and come himſelf to live upon his owne land, or take in another Tenant? If a Tenant ſo diſcharged complain, will Maſter <hi>Moore</hi> think the Landlord deſerveth to be condemned for it? Sure, it is not ſufficient for Maſter <hi>Moors</hi> or for any man elſe, out of charity to the Tenant, to take notice of his complaint alone, but hee muſt likewiſe, out of juſtice to the Landlord, duly conſider whether the cauſe of his complaint is juſt; Leſt he fall under the woe denounced by the Prophet, <hi>Iſa.</hi> 5.22. againſt them that juſtifie the wicked, and take away the righteouſneſſe of the righteous from him. What find you next in Maſter <hi>Moore</hi> diſcourſe, that you think may carry any colour of an argument againſt Incloſure in generall?</p>
+               </sp>
+            </div>
+            <div n="12" type="section">
+               <pb n="21" facs="tcp:166754:15"/>
+               <head>Sect. 12.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Page 10 he ſaith, Herein is the miſery of the Tenant the greater, Thoſe that have thus uncorned the ſaid towns, and turned all into Paſture, and diſcharged their Tenants, theſe thus incloſed wretches become Tenants themſelves, and rent land in the open fields round about them, or near unto them, to maintain their own families with corns, and their horſes, with feeding, for which land they give (being able to pay for it out of their incloſed grounds) exceſſive rates, which if the poor Tenant ſhould give, he and his muſt forthwith come to beggary. So that they do not only turn thoſe poor tenants out of in<g ref="char:EOLhyphen"/>cloſed towns, but alſo rent thoſe Farmes, and that land in the common fields, which the poor tenants elſe might have rented at an eaſier rate; ſo that in the concluſion moſt of theſe tenants become Cottiers.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>The like complaint maybe made in behalf of Tenants that live upon lands that are incloſed. Thoſe that live where the fields lying open are uſed in common become tenants themſelves, and rent incloſed grounds round about them, or near unto them, that they may bee better able to maintain their own families, and mannage their tillage in the common fields with more advantage; for which incloſed grounds, in that reſpect, they can afford to give greater rents, then they that live on<g ref="char:EOLhyphen"/>ly upon incloſure can doe. So that this, as the other arguments urged a<g ref="char:EOLhyphen"/>gainſt Incloſures, hath (the misfortune it may bee ſome men would think it, but I ſay rather) the good hap to conclude as much againſt common fields: If Incloſure make land in common fields ſcarcer, com<g ref="char:EOLhyphen"/>mon fields make grounds incloſed dearer. And therefore the wonder is leſſe, that thoſe, who live where the fields are incloſed, endeavour to hinder the incloſure of the common fields about them. They know very will their advantage would be leſſe, if all men beſides had the like op<g ref="char:EOLhyphen"/>portunity to make it, that they have: And, if there were not ſo much help, as there is, from them, who live when the fields lying open are uſed in common, from incloſed grounds in other places, they would the ſooner find themſelves neceſſitated to incloſe: And then, thoſe that live where the grounds are all incloſed, would finde it more profitable tilling ſome, then graſing all, ſo that there would need no law at all to com<g ref="char:EOLhyphen"/>pell them to it. When tillage is more profitable then paſturage, men will break up their paſtures to till: And why ſhould they not have li<g ref="char:EOLhyphen"/>berty then to lay down their Arable land for graſſe, when paſturage is more profitable then tillage: I mean, as before, when the land is fitter for it. And ſo I make no queſtion but they have, if the Statutes concern<g ref="char:EOLhyphen"/>ing Husbandry and Tillage were rightly underſtood, and well obſerved. Nor needeth any man in reaſon to deſire greater freedom for laying down
+<pb n="22" facs="tcp:166754:16"/>any land, which bath been uſed to tillage before, then is granted him by the Proviſo's in thoſe ſtatutes. But it maybe the rate of the rents is the main matter that is ſtumbled at: which yet comes all to the ſame paſſe, whether the fields be incloſed or no: ſave that there is not ſo much caſualty in grounds incloſed, as in common fields, as was before obſerved. Tenants may be oppreſſed and beg<g ref="char:EOLhyphen"/>gered by rents over-rated in common fields, as wel as Incloſures, and I beleive more often are: the over-rating of rents being not the ine<g ref="char:EOLhyphen"/>quality of them unto other rents, either in other places at the ſame time, or at other times in the ſame place, but the diſproportion of them unto the profit, which ordinarily <hi>communibus annis,</hi> may bee raiſed of the land that is rented, over and above the neceſſary charge of the labour and ſtock, that is to be employed upon it. And for tenants becoming cottiers, I believe, if any man will examine his own experience impartially, hee may obſerve as many not tenants only, who alwayes paid great rents, but even freeholders alſo, who ſometimes payd but little rent, or none at all, to have become cot<g ref="char:EOLhyphen"/>tiers, where the fields lying open are uſed in common, as where they have been incloſed. But ſome men, whom our ſaviour calls hy<g ref="char:EOLhyphen"/>pocrites. Mat. 7.5. will ſooner obſerve and reprove a few ſmall faults in others, then acknowledge and reforme many greater in themſelves. And I doe not think M<hi rend="sup">r</hi> 
+                     <hi>Moore</hi> can ſhew ſo many com<g ref="char:EOLhyphen"/>mon fields without diſorders, as another man may do incloſures without pulling down houſes, and turning out tenants. What have you yet more ?</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>In the ſame 10 page, and ſo forward in the it he ſaith. In theſe incloſed towns in laying down the plow, and taking away the crop of corne, how many crops doe they rob the poor cottier of? This poor man had a crop and income of every tilth of the plow, in the following tilth, in the ſtirring tilth, in the arring tilth, in the ſowing tilth: he had his income in the manuring, weeding, mowing, inning, gleaning, and threſhing of the corne. And now alas, ſaith the poor cottier, there is no worke for me; I need not be thruſt out of the town, I muſt be gone where I may get my living; and if I can get no houſe elſewhere, I and mine muſt ſtare. And hence it comes to paſſe that the open fielden townes have above double the number of cottiers they had wont to have, ſo that they not live one by another, &amp; ſo put the fielden townes to vaſt expences in caring for thoſe poor that theſe incloſures have made. And what enquiring everywhere is there of theſe poor cottiers (after the town
+<pb n="23" facs="tcp:166754:16"/>is incloſed) to get an houſe in any place where they may have work?</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>All this goes ſtil upon the ſame falſe ground, that unpeop<g ref="char:EOLhyphen"/>ling towns and uncorning fields is the proper and neceſſary fruit and effect of incloſure: which experience ſhewes to be otherwiſe. I could inſtance a place, where within a ſhort time after the fields were incloſed, more houſes were built and repaired, then had been in many years before: where they that caled themſelves the poor, yet thought they were able enough to take land out of other mens hands, and to offer more for it then other men paid: and even then, when they did complain that they could not get work, the other inhabitants complained that they could not get workmen. So that you muſt not al<g ref="char:EOLhyphen"/>wayes ſo much take heed to what ſuch people ſay, as to the cauſe which they have to ſay ſo, which is not alwayes ſuch as they pretend. For the incomes which M<hi rend="sup">r</hi> 
+                     <hi>Moore</hi> ſaith that the poor cottier had in every tilth of the plow, in the manuring, weeding, mowing, inning, and threſh<g ref="char:EOLhyphen"/>ing of the corne, if the husbandman (as uſually it is in common fields, more then incloſures) had children and ſervants of his owne to doe his work, it is like the poor cottiers part was very little. And I believe it may be obſerved, that when townes are incloſed, although there be not ſo much uſe of houſhold ſervants, as formerly there was, yet of day-la<g ref="char:EOLhyphen"/>bourers there is, or more,</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>But that M<hi rend="sup">r</hi> 
+                     <hi>Moore</hi> in the next words hath complained of, when he ſaith, ſuch incloſure makes beggers of the children both of tenants and cottiers; the children of both uſually become ſervants to the husband<g ref="char:EOLhyphen"/>man, and brought up at the plow &amp;c. But now in ſuch in cloſed towns where there were kept 30, 40, 50, ſervants, there is not above three or four. Hence the droves of poor children, when they are reproved for begging, are complaining, we would willingly work, if any would fet us on work.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>It is well if M<hi rend="sup">r</hi> 
+                     <hi>Moore</hi> hath had the good hap to meet with no poor children, but ſuch as are willing to work; I wiſh that all men elſe could ſay ſo. But rather I fear the moſt of thoſe, which come out of com<g ref="char:EOLhyphen"/>monfields, have been ſo inured to idleneſs there, that they will not eaſily be brought to take any good pains any where. And if this objection drawn from the great diſproportion in the number of ſervants uſually kept there where the fields lying open are uſed in common, and where they are incloſed, carry any conſequence with it againſt incloſure in generall (as I confeſſe in my apprehenſion it ſeemeth to do more then any of the reſt) it muſt be upon this ſuppoſed principle, that all land in every place is to be uſed in ſuch ſort, as may occaſion the imployment
+<pb n="24" facs="tcp:166754:17"/>of moſt people; which for all the fair ſhew that it maketh, is falſe.</p>
+                  <p>For
+<list>
+                        <item>1. it is contrary to that generall rule, <hi>Fruſtra fit per plura, quod fieri poteſt per pauciora.</hi> It is a needleſſe, fruitleſſe vanity (at leaſt, if it be no worſe) to uſe many meanes for effecting of that, which may as well be done with few.</item>
+                        <item>2. It is not a practice agreeable to the pattern and example which both God and Nature have ſet; <hi>Deus &amp; Natura nihil agunt fruſtra;</hi> God and Nature do nothing in vain. They are followers of neither, that purpoſely chooſe to do things in ſuch ſort, as that more men muſt be employed in doing them, then is either neceſ<g ref="char:EOLhyphen"/>ſary, or convenient.</item>
+                        <item>3. It is a great hinderance of the common good, when all thoſe people are needleſly imployed in one place, whereof ſome might be more profitably employed elſwhere.</item>
+                        <item>4. If that principle were true, the practiſe accordingly muſt bee to put down teames, and inſtead of plowing, and harrowing, and carting, to dig, and rake, and carry on mens backs; which if it be abſurd to doe, that rule, according unto which it is done, cannot be reaſonable. What follows next?</item>
+                     </list>
+                  </p>
+               </sp>
+            </div>
+            <div n="13" type="section">
+               <head>Sect. 13.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>A blow made at the root of all ſuch Incloſure, as Maſter <hi>Moor</hi> doth ſpeak againſt. In brief, ſaith he, is it not palpa<g ref="char:EOLhyphen"/>ble, that the main inducement unto ſuch Incloſure is filthy lucre, and to be rid of Tenants, poor, and ſervants? So far are they from caring for the poor, and inſtead of bringing them into their houſes, to rid them of their houſes. As for example, they being hot upon ſuch incloſure in a town I am well acquainted with, one of the in<g ref="char:EOLhyphen"/>habitants gave this reaſon why they muſt do it, in theſe words, <hi>viz.</hi> The poor increaſe like Fleas, and live, and theſe vermine will eat us up, unleſſe we incloſe. And ſure it was plain dealing; for without queſtion he ſpake the ſence of moſt of the reſt. What can you ſay to this?</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>To this I can ſay;</p>
+                  <p n="1">1. That all men who endeavour to provide for the prevention of a miſchief, or of an inconvenience, before it come, or for the re<g ref="char:EOLhyphen"/>movall of it when it is come, are not induced thereunto by filthy lucre. Some men, for ought that Maſter <hi>Moor</hi> can tell to the con<g ref="char:EOLhyphen"/>trary, do it out of conſcience of that duty which they owe to God, themſelves, and others.</p>
+                  <p n="2">2. By this example, which Mr. <hi>Moor</hi> hath produced, it appear<g ref="char:EOLhyphen"/>eth,
+<pb n="25" facs="tcp:166754:17"/>that poverty, in the towne which ſpeaketh of, was not the follower, but the forerunner of Incloſure. And by that it ſhould ſeem, that whether care were taken of the poor there, or no, yet care was not taken to prevent their poverty, whilſt the fields lying open were uſed in common; or if it were, it had proved inef<g ref="char:EOLhyphen"/>fectuall till then, and ſo was like to have done ſtill without in<g ref="char:EOLhyphen"/>cloſure.</p>
+                  <p n="3">3. <hi>Charity thinketh no evill,</hi> 1 Cor. 13.5. and if Maſter <hi>Moore</hi> be ſo charitable minded, as hee maketh ſhew, why could hee not take that ſpeech, which he relateth, in the beſt ſence, and think that hee by whom it was ſpoken, had a charitable intent to ſee the poor better provided for then they were, or could have been, if the fu<g ref="char:EOLhyphen"/>ture increaſe of them ſhould not have been prevented? Is there no mean between eating up the poor, and being eaten up by them? Cannot thoſe that are poor already be relieved, or maintained, un<g ref="char:EOLhyphen"/>leſſe that others alſo may be added to increaſe the number? If the mans comparing thoſe poor, concerning whom he ſpake, to fleas and lice, and calling them vermine, be that which Maſter <hi>Moore</hi> took offence at, I will not goe about to juſtifie it. But I wiſh, that as it is better to prevent the increaſe of Fleas, and Lice, by clean<g ref="char:EOLhyphen"/>lineſs and diligence, then to catch them, and kill them; ſo none that pretend they have care of the poor, may ſtrengthen their hands, or give them encouragement in any of thoſe evil courſes, from whence occaſion may bee taken to thinke that they deſerve ſuch a compariſon.</p>
+               </sp>
+            </div>
+            <div n="14" type="section">
+               <head>Section 14.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Page 12. He ſaith, Depopulation comes by de<g ref="char:EOLhyphen"/>grees, and the next generation uſually knows neither Tenant nor Cottier in ſuch incloſed places; for townes we muſt call them no longer.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>I think it will be hard for Maſter <hi>Moor</hi> to give inſtance of any ſuch place, where towns have been un-peopled in another ge<g ref="char:EOLhyphen"/>neration, that were not at the firſt time of Incloſure. But in caſe he can, is there any neceſſity therefore that in all it muſt be ſo? Eſpeci<g ref="char:EOLhyphen"/>ally conſidering what excellent Lawes have been provided for re<g ref="char:EOLhyphen"/>dreſſe of ſuch abuſes. Or, if ſuch a thing might be feared indeed, for which the Law had not provided a remedy, in caſe it ſhould happen, muſt preſent miſchiefs, ſuch as the abuſes of common fields are, be perpetually continued without redreſs, becauſe there is a poſſibility of an after inconvenience? <hi>Hicrogonon furor eſt nè mo iare mori?</hi> Doth any thing look more like the madneſſe of de<g ref="char:EOLhyphen"/>ſpair
+<pb n="26" facs="tcp:166754:18"/>then this? Not much unlike that of a ſimple Ideot in the daies of Queen <hi>Elizabeth,</hi> when the Wars in <hi>Ireland</hi> were on foot: Who being in waggery told by one, that the Rebels were coming, made all the haſte home that he could; and begged of his aged Mother, that ſhe would let him kil her himſelf, ſaying, he would do it hand<g ref="char:EOLhyphen"/>ſomly, that ſhe might not be killed by the Rebels; &amp; was ſo earneſtly intent upon it, that the poor woman had much adoe by creeping under a bed to hide her ſelf. Thus it ſeemes, for fear of having Te<g ref="char:EOLhyphen"/>nants and Cottiers turned out of a Town, he knows not when, Mr. <hi>Moor</hi> is ſo charitably affected to them, that he would not have In<g ref="char:EOLhyphen"/>cloſure brought in to prevent the continuance of thoſe abuſes, wher<g ref="char:EOLhyphen"/>by they run headlong into preſent poverty.</p>
+               </sp>
+            </div>
+            <div n="15" type="section">
+               <head>Sect. 15.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Page 13 he ſaith, If the Lord ſhould ſlack his hand but a little, and withhold his more then uſual encreaſe of corn from us, it is ſuch, Incloſure would make a flat Famin: as within theſe few yeares, what crying for bread, and complaining in our ſtreets of ſuch Incloſure? If then, what will become of us now? ſince when there hath been ſo much incloſed; and even at this preſent they are ſo mad upon it, as though it was their project one time or other to ruin the poor.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>For this, I told you before, that decay of Tillage and uncorn<g ref="char:EOLhyphen"/>ing of fields, is no neceſſary effect of incloſure in general, nor any effect of incloſure at all, if it be rightly ordered as it ſhould be; but rather the contrary. And now I wil adde, that our prudent forefa<g ref="char:EOLhyphen"/>thers were of this mind: In whoſe ſtead we are riſen up a genera<g ref="char:EOLhyphen"/>tion of men made as it were in the afternoon of nature, in whom weakneſſe of judgement, and ſtrength of paſſion ſtrive for the ma<g ref="char:EOLhyphen"/>ſtery, upon ſuch equal termes as it is not eaſie to determine, whether of the two we are, more witleſs, or more wilfull. Our prudent fore<g ref="char:EOLhyphen"/>thers, I ſay, knew this ſo wel, that when they ſet themſelves of pur<g ref="char:EOLhyphen"/>poſe to prevent the decay of Tillage, and to provide for the increaſe of Corn, they never prohibited Incloſure at all, but rather gave en<g ref="char:EOLhyphen"/>couragement unto it, by providing that for the better, and more commodious occupying of husbandry, of any the lands, meddows, or paſtures, which ſhall bee allotted, or belonging to any houſe of husbandry, it ſhall be lawfull for any Lord to make exchange with any his tenants; or any tenant, or other perſon, with the aſſent of the Lord, to change the one with the other. <hi>An.</hi> 39 <hi>Eliz. cap.</hi> 1. Yea, how neceſſary they eſteemed ſome Incloſure to bee, for the maintainance husbandry and tillage, may appear by the Statute
+<pb n="27" facs="tcp:166754:18"/>made to that purpoſe, in the behalf of certain particular places in the County of <hi>Hereford, an.</hi> 4 <hi>Jacobi cap.</hi> 11. And when they ſtu<g ref="char:EOLhyphen"/>dyed to reform the abuſes committed contrary to the Law by de<g ref="char:EOLhyphen"/>population and decay of tillage, they never commanded the laying open again of Incloſures, as if hedges and ditches had been any ei<g ref="char:EOLhyphen"/>ther cauſes or occaſions of ſuch abuſes, but made as ſtrict Laws, with as ſevere penalties, for the puniſhment of thoſe riotous per<g ref="char:EOLhyphen"/>ſons that goe about to pull down incloſures, as of others, 1 <hi>Eliz. cap.</hi> 16. Yea, if my memory deceive me not (for I cannot now tell where to finde it) I have long agoe read a proviſion made by Law, that if an Incloſure were pulled down, and the parties that did it could not be found, it ſhould be made good again by the inhabitants of the next adjoyning town: And I cannot but wonder, that any man, who pretendeth ſo highly to honour the preſent Parliament, as Mr. <hi>Moor</hi> doth, ſhould imagine that the Members thereof will forget themſelves ſo much, as to ſuffer the ſolid wiſdome of their predeceſſors to be (overweighed I will not ſay, but) overſwayed, or rather cryed down by the empty noiſe of hollow heads. Far be it from me to harbour ſo poor an opinion of them. If my diſcre<g ref="char:EOLhyphen"/>tion did not, yet my charity would teach me better.</p>
+               </sp>
+            </div>
+            <div n="16" type="section">
+               <head>Sect. 16.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>In the next words, page 13, he ſaith, I proceed to the fourth ſort, which they make beggars, and they are thoſe ho<g ref="char:EOLhyphen"/>neſt hearts, who out of a tender conſcience take ſuch care for the poor, as they dare not comply with them in their uncharitable de<g ref="char:EOLhyphen"/>ſignes, nor conſent to ſuch incloſure. Againſt theſe they fret and ſtorm, and tell them in plaine termes they will undoe them, and make them beggars: And ſo they doe indeed, in bringing multipli<g ref="char:EOLhyphen"/>city of Law ſuits, Actions of Treſpaſſe for nothing, or at leaſt for trifles, as for coming over their ground, <hi>&amp;c.</hi> and vex them all with long tedious ſuits in Chancery, to force them to doe againſt their conſciences—. Alaſſe how many amongſt us are now perſecuted in this manner, becauſe they would keep faith and a good conſcience, pure and unſpotted, both before God and man?</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>Here Maſter <hi>Moor</hi> would have us believe, that all thoſe who withſtand &amp; refuſe to conſent unto ſuch incloſure, as he ſpeak<g ref="char:EOLhyphen"/>eth of, are honeſt hearted, and tender conſcienced men, ſuch as have a care of the poor, and becauſe they deſire to keep faith and a good conſcience, pure and unſpotted, will not comply with uncharitable deſignes, although they be vexed and preſented for it. Concerning all which I would I could ſay, as the Apoſtle doth, <hi>Tit.</hi> 1.13. <hi>This witneſſe is true.</hi> But the contrary is ſo apparently evident, that if
+<pb n="28" facs="tcp:166754:19"/>ſome of the men, whom Maſter <hi>Moor</hi> doth mean, be the ſame that it is conceived they are, ſhould I name them onely, thoſe that know them would wonder, how Mr. <hi>Moor</hi> could be ſo much miſtaken in them. But leaving the men, let us come to the matter, and ſetting aſide Maſter <hi>Moores</hi> reſtrictive termes, of uncharitable deſigns, and ſuch Incloſure, let us conſider whether it be ſuch a cruel oppreſ<g ref="char:EOLhyphen"/>ſion, and not to be ſuffered in the land of uprightneſſe, as hee pre<g ref="char:EOLhyphen"/>tends, that ſome men ſhould be forced by ſuits in Chancery to con<g ref="char:EOLhyphen"/>ſent to incloſure, I mean when it may be done upon equall and in<g ref="char:EOLhyphen"/>different termes for all that have right, and with due reſpect unto proviſion for the poor: And whether ſuch men refuſing to give ſuch conſent; may not without tranſgreſſion of the rules of righte<g ref="char:EOLhyphen"/>ouſneſſe, or breach of charity, have law ſuits, or actions of treſ<g ref="char:EOLhyphen"/>paſs brought againſt them.</p>
+                  <p>For the former we know, that the moſt important affairs both of Church and Commonwealth are alwayes determined in publick aſſemblies, as Parliaments, and the like, by the major part, although many times in number but little exceeding the other. And can it then be reaſonable, that in particular towns, when the far greater number of thoſe that are intereſted doe agree upon a courſe (as of incloſure) for the general good of them all, upon equall and indif<g ref="char:EOLhyphen"/>ferent termes for every one of them, and with due reſpect unto the poor, who have no intereſt of right amongſt them, one or two, or but a few in compariſon of the reſt, ſhould have liberty to with<g ref="char:EOLhyphen"/>ſtand and hinder all? Eſpecially, if it may appear that they do it meerly of perverſneſs, or for evill ends? For a court of Conſci<g ref="char:EOLhyphen"/>ence (as the Chancery) to take cogniſance of ſuch a caſe, and force the refractory to conformity, when Courts of Law cannot, I con<g ref="char:EOLhyphen"/>ceive to be not only lawfull, but likewiſe very convenient, if not neceſſary, in reſpect of that intereſt, which the Commonwealth in generall hath in the welfare and proſperity of all its members in particular; and therefore hath great cauſe to take care, that the wel-being, or wel-doing of many may not bee needleſly hin<g ref="char:EOLhyphen"/>dered by the wilfulneſſe onely of a few. For the later, as it is a tranſgreſſion of the rule of righteouſneſſe to bring ſuits and a<g ref="char:EOLhyphen"/>ctions at Law againſt any man for nothing, and a breach of cha<g ref="char:EOLhyphen"/>rity to multiply ſuch ſuits and actions for trifles onely, ſo, in determining whether the ground of the ſuit or action bee nothing, or a trifle only, not the ſubſtance of the matter it ſelf alone, but the circumſtances alſo are to be conſidered. As for example, If your neighbour have an horſe to ſel you, and you offer him his ful
+<pb n="29" facs="tcp:166754:19"/>price, if he refuſe to let you have him, it is but a matter of unkind<g ref="char:EOLhyphen"/>neſſe, nothing to ground a ſuit or action at law upon. But if hee promiſe you ſhal have his horſe at ſuch a time for ſuch a price, and you truſt upon him, having occaſion at the time appointed to ride a journey upon buſineſſe of importance, if in the mean time hee ſell the horſe unto another man, at a greater price, although hee bee willing to give you the overplus, ſo that you ſhall not need to ſu<g ref="char:EOLhyphen"/>ſtain any loſſe that way; yet being by that means diſappointed of your journey, and ſo damnified in the buſineſſe, which you ſhould have gone upon, in that reſpect you have juſt cauſe of action againſt your neighbour. So your neighbours comming over your ground is in it ſelfe but a trifle, but if he practiſe it ordinarily, and will not take warning, intending to intitle himſelf to a way there with<g ref="char:EOLhyphen"/>out leave, where of right he hath none, it may be a juſt ground of a law ſuit, and action of Treſpaſſe. Therefore that, which Maſter <hi>Moore</hi> hath added, concerning the evil conſequences of Law ſuits, and ſuits in Chancery, that ſome parties have grown diſtracted, and others have never lived a comfortable hour after all the daies of their lives, is ſuch as I can ſay nothing to, nor any man elſe to the purpoſe, unleſſe I were acquainted with the particular caſes, and the circumſtances of them.</p>
+               </sp>
+            </div>
+            <div n="17" type="section">
+               <head>Sect. 17.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Page 14. he ſaith, They uſually upon ſuch in<g ref="char:EOLhyphen"/>cloſure treble the price of their land: and this they get by flaying the skin off the poor.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>If any man impoſe a greater rent upon his land, then it is worth, I will not go about either to juſtifie or to excuſe him: but that may be done upon land in common fields, as well as incloſure: and therefore this objection can be of no force againſt incloſure in general. Land may be incloſed, and yet no rent put upon it more then it is worth. And, if after incloſure, the profit of the land to the tenant be raiſed, to what proportion ſoever it bee, double or treble, what wrong can it be unto him if his rent be raiſed accord<g ref="char:EOLhyphen"/>ingly? But, if the profit to the tenant be not raiſed, it is in vain for the Landlord to expect that he ſhould raiſe his rent, any more in grounds incloſed, then in common fields.</p>
+                  <p>I tould you before, in anſwer unto that which you alleadged out of page 10. that the over-rating of rents is not the inequality of them, but their diſproportion to the profit that may bee raiſed of the land: and ſo I ſay now. Beſides that this objection makes nothing againſt incloſure there, where there are no tenants, but all
+<pb n="30" facs="tcp:166754:20"/>men freeholders, that live upon their own lands. And more then that, to ſerve Maſter <hi>Moores</hi> purpoſe, it muſt preſuppoſe all Land<g ref="char:EOLhyphen"/>lords rich men, and all Landlords of incloſed grounds, not Land<g ref="char:EOLhyphen"/>lords of thoſe that lie in common fields, ſuch as pant, thirſt, and are enflamed, as he ſpeaks, with covetouſneſſe; and all tenants poor, yea ſuch as have nothing but skin left upon them, that is, according to his own interpretation, page, 26. very poor: none of all which is alwaies ſo. For tenants may be, and ſometimes are, richer then their Landlords, and Landlords in common fields may pant, thirſt, and be inflamed with covetouſneſſe, when Landlords of incloſed grounds may be pittifull and compaſſionate, yea bountiful and li<g ref="char:EOLhyphen"/>beral unto the poor. And therefore that which he addeth page 15. I muſt tell theſe that thus ſell the poor for trifles, that I am ſuſpi<g ref="char:EOLhyphen"/>cious they will ſell their God for gold, and Judas-like their Chriſt to fill the bagge: their profeſſion is nothing, if they care not for the poor. A Goſpel ſpirit is a giving ſpirit &amp;c. let him beſtow upon covetous oppreſſors, whereſoever he finds them, either in common fields, or grounds incloſed: ſo that he be care<g ref="char:EOLhyphen"/>full not to miſtake them, for fear he mark the ſheep, with the brand that was made for none but for goats. Howſoever let this be ob<g ref="char:EOLhyphen"/>ſerved, as given for granted by Maſter <hi>Moore,</hi> that upon ſuch inclo<g ref="char:EOLhyphen"/>ſure the price of the land may be trebled, which I confeſſe is ſome<g ref="char:EOLhyphen"/>times true, although not alwaies, and then it will follow, that by hindring ſuch incloſure, a double benefit to the owner in particu<g ref="char:EOLhyphen"/>lar, and conſequently in proportion unto the Common-wealth in general, is hindered: for upon ſuch incloſure the price of the land could not be trebled, unleſſe a treble profit might bee raiſed. And this, for as much as concernes the Common-wealth in general, is e<g ref="char:EOLhyphen"/>vident by experience, becauſe upon incloſure, the proportion of the taxes is accordingly raiſed above the rate, which they were for<g ref="char:EOLhyphen"/>merly at, when the fields lay open, &amp; the land was uſed in common.</p>
+               </sp>
+            </div>
+            <div n="18" type="section">
+               <head>Sect. 18.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Page 19. he ſaith, Theſe worldlings are the un<g ref="char:EOLhyphen"/>profitable burdens of the earth, in whom there is no charity, libera<g ref="char:EOLhyphen"/>lity, hoſpitality nor humanity; ſuch are greedy gripes, which by their incloſure would have no poor to live with them, nor by them, but delight to converſe with beaſts, and to this purpoſe turn corne into graſſe, and men into beaſts.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>Such worldlings, as Maſter <hi>Moore</hi> there deſcribeth (if there be any ſuch) he may well call unprofitable burdens of the earth: but that all incloſers are ſuch greedy gripes, as would have no poor to live with them, or by them, he hath not yet proved, not e<g ref="char:EOLhyphen"/>ver
+<pb n="31" facs="tcp:166754:20" rendition="simple:additions"/>will doe. And yet to ſay, that ſome of them would have no poor to live with them, or by them, may be ſo underſtood, that it would be no diſparagement at all, but an high commendation: I mean ſo, that they would have the poor, who live with them, to live by them, that is, by their means, ſo that they may in time out-live their poverty, and be no more poore: which would be the beſt courſe of caring for the poor, that they could take. But, why doth Maſter <hi>Moore</hi> deſcribe ſuch greedy gripes, ſuch worldlings, as hee there ſpeaketh of, by delighting to converſe with beaſts, and ſay, that to this purpoſe they turn corne into graſſe, and men into beaſts, Are oxen, kine, and ſheep beaſts, any more then horſes are? Or do not plowmen delight to converſe with horſes, as much as Shepheards, or heardſmen, do to converſe with other cattle? Or are not horſes for the plowmans uſe maintained with graſſe, as well as oxen, kine and ſheep? and, more then they, even with corne it ſelfe alſo? doth Maſter <hi>Moore</hi> conceive, that a plowman, as a plowman, is, or may be, more ſpirituall, then a ſhepheard, or an heardſman? and a ſhep<g ref="char:EOLhyphen"/>heard, or an heardſman, as a ſhepheard, or an heardſman, more carnal, then a plowman? much good, if it can, may his conceit do him. But yet if he pleaſe, for the further ſatisfaction of others, let him tell them, which of the two it was, <hi>Abel</hi> a keeper of ſheep, or <hi>Cain</hi> a tiller of the ground, unto whom the Lord had reſpect, and unto his offering, &amp; unto which of the two he had not, <hi>Gen.</hi> 4.2. &amp;c. And which doth he think were heardsmen and ſhepheards, which were plowmen and tillers of land, the <hi>Iſraelites</hi> in the land of <hi>Go<g ref="char:EOLhyphen"/>ſhen,</hi> or the <hi>Aegyptians</hi> in the land of <hi>Aegypt?</hi> whether it was from the ſheepfolds, or from the threſhing floores, from following the ewes great with yong, or from holding the plow, that God tooke <hi>David,</hi> a man after his own heart, to feed <hi>Jacob</hi> his people, and Iſ<g ref="char:EOLhyphen"/>rael his inheritance? Pſ. 78.70. &amp;c. Though page 22 Maſter <hi>Moore,</hi> is pleaſed to ſay, that fleſh is but ſawce as it were, to make our bread reliſh better, and goe down the glibber: yet he may obſerve, that <hi>Moſes, Gen.</hi> 4.2. doth firſt make mention of <hi>Abels</hi> keeping ſheep, although he were but the yonger brother, before he ſpeaks of the elder brother <hi>Cains</hi> tilling the ground: and meat is not wont to be an after additament to ſawce, but ſawce to meat; yet all this is but little to the purpoſe, becauſe, as I told you before, decay of tillage is no neceſſary effect, nor any proper adjunct of incloſure, but rather the contrary.</p>
+                  <p>I pray you proceed: for I believe there is ſomething yet be<g ref="char:EOLhyphen"/>hind
+<pb n="32" facs="tcp:166754:21"/>unſpoken to, which ſome men, if they can, will make a great matter of.</p>
+               </sp>
+            </div>
+            <div n="19" type="section">
+               <head>Sect. 19.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>It is true: for page 22. hee ſaith, How nigh are they to a curſe, that uſe ſuch means, that there may bee no corne, nor ſeed time, nor harveſt, in the places where they inhabit? Theſe break our ſtaffe of bread. This argument prevails much with a car<g ref="char:EOLhyphen"/>nal mind, and the natural conſcience doth much perplex theſe op<g ref="char:EOLhyphen"/>preſſours. Oh (ſay they) though wee have a good mind to this buſineſſe, yet the curſe that followes ſuch incloſure! And none of us here can be ignorant how viſibly God hath purſued ſuch inclo<g ref="char:EOLhyphen"/>ſure with his ſeveral judgements, having written this very ſinne in the ludgement. I ſhall bee ſparing of the particular vengeances that have followed this ſinne: only thus much I ſhall ſay, that the propheſie of <hi>Iſaiah</hi> 5.9. is fulfilled on them, Many houſes are de<g ref="char:EOLhyphen"/>ſolate, even great and fair, without inhabitants: ſo that wee may ſay uſually of them, as the Pſalmiſt ſpeaks of ſuch. Pſ. 37.35, 36. I have ſeen him in great power, and ſpreading himſelfe like a green bay tree, yet he paſſed away, and loe he was not, yea I ſought him, but he could not be found. His houſe and land hath vomited him out and his poſteritie. Seldome the third generation can call thoſe incloſed grounds his owne.</p>
+                  <p>This natural conſcience dot ſo terrifie them, when they are upon ſuch curſed deſignes, that they can goe on with no complacency of ſpirit in it. When they are agreed upon Articles of ſuch incloſure, how every one trembles to ſet his hand firſt to them, or to ſet the firſt ſpade in the ground of ſuch incloſure, becauſe God many times ſo viſibly meets with the ringleaders. In one town being upon ſuch incloſure, and to ſet their hands to the Articles, ſo terrible was the buſineſſe, that no body would begin: at laſt one ſnatched the penne, ſubſcribed his name, and bid them follow him all in the devils name. When they have thus incloſed, you ſhall hardly find who was the author of it, none will acknowledge themſelves to be prin<g ref="char:EOLhyphen"/>cipal agents in it, though they have all done it. I have this one word to ſpeak to theſe Mammoniſts that thus dare to ſtifle conſci<g ref="char:EOLhyphen"/>ence, 1 <hi>John</hi> 3.20. If thy heart condemn thee, God is greater then thine heart, and knoweth all things.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>I thank you, that you have repeated Mr. <hi>Moores</hi> words ſo at large: I hope to make ſome good uſe of them: For
+<list>
+                        <item>1 His frequent inſerting of thoſe reſtrictive termes, ſuch meanes, theſe oppreſſors, ſuch incloſure, this ſin, thoſe incloſed grounds,
+<pb n="33" facs="tcp:166754:21"/>ſuch curſed deſignes, and the like, ſhew plainly that hee had no de<g ref="char:EOLhyphen"/>ſire, that all men ſhould underſtand him ſo, as it ſeemes you con<g ref="char:EOLhyphen"/>ceive ſome men may doe, namely, as ſpeaking of incloſure in gene<g ref="char:EOLhyphen"/>rall. And therefore I ſay, as well as he, if any man whoſoever bee conſcious to himſelf, that hee hath an heart exerciſed with cove<g ref="char:EOLhyphen"/>tous practiſes, that have made, or would make uſe of oppreſſive, unjuſt, uncharitable actions for incloſure, or of incloſure for op<g ref="char:EOLhyphen"/>preſſive, unjuſt, uncharitable ends, let him tremble at the expecta<g ref="char:EOLhyphen"/>tion of a curſe, and if it conic let him not ſtick to charge the par<g ref="char:EOLhyphen"/>ticular vengeance that follows him, upon his own particular ſinne that went before. But what I ſay of incloſure I will in like manner ſay of land in common, If any man be conſcious to himſelf of an heart excerciſed with covetous practiſes, that hee hath made, or would make uſe of oppreſſive, unjuſt, uncharitable actions to hin<g ref="char:EOLhyphen"/>der incloſure; for oppreſſive, unjuſt, uncharitable ends, let him tremble at the expectation of a curſe, and if it come, let him not ſtick to charge the particular vengeance that follows him, upon his own particular ſin that went before. But, when Maſter <hi>Moor</hi> and I have ſaid all this, we have ſayd nothing at all againſt incloſure in generall, or againſt common fields, but only ſo farre forth as in common fields there is greater opportunity of covetous, vncon<g ref="char:EOLhyphen"/>ſcionable, oppreſſive, unjuſt, uncharitable practiſes, then there is in grounds incloſed.</item>
+                        <item>2. When Mr. <hi>Moor</hi> ſaith of a covetous, unconſcionable, oppreſſing, unjuſt, uncharitable incloſer, his houſe and land hath vomited him out, ſeldom the third generation can call thoſe incloſed grounds his own, either Maſtes <hi>Moor</hi> muſt ſuppoſe him unblameable in o<g ref="char:EOLhyphen"/>ther reſpects, or elſe he cannot certainly tell, that ſuch a particular judgement was inflicted for that particular ſin. If beſides that hee were likewiſe an idolater, a blaſphemer, a murtherer, an adulterer, a drunkard, or the like, that particular judgement, for ought that Maſter <hi>Moor</hi> can tell, might bee brought upon him for ſome of thoſe particular ſins, as well, as for that, which hee is minded to aſcribe it to. Yea it might bee for ſome antecedent ſin of his Ance<g ref="char:EOLhyphen"/>ſtors, as well as for his own. So uncertain a thing it is, as well as preſumptuous, and therefore the more preſumptuous, becauſe it is uncertain, without ſpeciall revelation from God himſelf to meddle with his ſecret counſels, and take upon us to deſign the particular occaſions of thoſe things which are ordered and diſpoſed of by his ei<g ref="char:EOLhyphen"/>ther operative, or permiſſive providence. You know what our Saviour
+<pb n="34" facs="tcp:166754:22"/>anſwered his diſciples concerning the man that was blind from his birth, <hi>John</hi> 9.2, 3. <hi>Who, ſay they, did ſin, this man, or his parents, that hee was born blind? Neither hath this man ſinned,</hi> ſaith he, <hi>nor his parents, but that the works of God ſhould be made manifeſt in him.</hi> And that ge<g ref="char:EOLhyphen"/>nerall rule of <hi>Solomon</hi> may ſerve to give anſwer unto a thouſand ſuch arguments as this. <hi>No man knoweth either love or hatred by all that is before them: All things come alike to all,</hi> &amp;c. <hi>Eccleſ.</hi> 9.1, 2, 3, and chap. 8.14. <hi>There be juſt men, unto whom it happeneth according to the work of the wicked: Again there be wicked men, to whom it hap<g ref="char:EOLhyphen"/>peneth according to the work of the righteous.</hi> Therefore the Apoſtles either precept or advice is, <hi>Judge nothing before the time, untill the Lord come, who will bring to light the hidden things of darkneſſe, and will make manifeſt the counſels of the hearts.</hi> 1 Cor. 4.5.</item>
+                        <item>3. When men of competent, yea of plentifull eſtates, who have not on<g ref="char:EOLhyphen"/>ly oppoſed, but likewiſe hindered incloſure in the places where they lived, have afterward been known to runne out of all, ſo that not the third, nor the ſecond generation, only, but not themſelves in their own life time could call thoſe common grounds their own, which they had been the means to hinder the incloſure of: would Maſter <hi>Moor</hi> thinke it charity in me, or in any man elſe, to ſay their houſes and their lands had vomited them out, and their poſterity, becauſe out of curſed deſignes of their own they had hindered incloſure? If not, then let him call to mind that of our Saviour, <hi>Mat.</hi> 7.1, 2. <hi>Judge not, that ye be not judged: For with what judgement ye judge, ye ſhall be judged; and with what mea<g ref="char:EOLhyphen"/>ſure ye mete, it ſhall be meaſured to you again:</hi> And that of the Apoſtle <hi>Rom.</hi> 2.1. <hi>Therefore thou art inexcuſable, O man, whoſoever thou art that judgeſt,</hi> &amp;c.</item>
+                        <item>4. Complacency of ſpirit, or a trembling perplexity of conſcience, in the things which men doe, or goe about, are not alwayes neceſſary evi<g ref="char:EOLhyphen"/>dences of lawfulneſſe or unlawfulneſſe in the things themſelves: And there may be other reaſons, without ſtifling of their conſciences, or be<g ref="char:EOLhyphen"/>cauſe their own hearts doe condemne them, that ſome men ſometimes are not willing to own ſome actions (though lawful and laudable) or to acknowledge themſelves to bee principall agents in them. I could give you inſtances enough to this purpoſe, but that I am loath to bee too tedious, and the matter is ſo plaine of it ſelfe, that it needs no proof.</item>
+                        <item>5. I thinke it might not be amiſſe for Maſter <hi>Moor,</hi> and other men of his mind, to examine their own experiences concerning thoſe Inclo<g ref="char:EOLhyphen"/>ſers, whom they thinke God hath viſibly purſued with this particular
+<pb n="35" facs="tcp:166754:22"/>judgement, to be vomited out by their houſes and lands, which they have incloſed, whether they are not decayed in their eſtates before, if not runne out of all, or ſo deeply indebted, that without ſuch improvement, as they made of their eſtates by incloſure, they could not have been able to fatisfie their creditors, and reſerve any thing to be a means of future ſubſiſtance to themſelves, and their poſterity. If all, or ſome, or any of them, were ſuch, the parting with that eſtate afterwards, which before was incloſed, may rather ſeem to have been a bleſſing, then a curſe, as a means of the creditors better ſatisfaction, and the owners future freedom from a former intanglement at leaſt, if not bondage alſo. But I ſpend too many words upon a matter manifeſt enough of it ſelf, if the prejudicate opinions and paſſions of men did not fiel up the eyes of their underſtand<g ref="char:EOLhyphen"/>ings, or render them reſolute not to acknowledge even what they cannot chooſe but know. Yet one thing ſeemes a little ſtrange unto mee.</item>
+                     </list>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>What is that?</p>
+               </sp>
+            </div>
+            <div n="20" type="section">
+               <head>Sect. 20.</head>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>Maſter <hi>Moor,</hi> that hath filled his diſcourſe in ſome places with froth that hath fallen from the mouthes of other men, hath not once that I remember made mention of one thing, more materiall, and more nearly concerning himſelfe, then moſt of the reſt, if not all, and that which I think hath been one of the moſt effectual meanes to hinder Incloſures, where they have been oppoſed. I meane the Churches right unto Tythes, and the wrong that is pretended would be done un<g ref="char:EOLhyphen"/>to Miniſters, if fields lying open, and uſed in common ſhould bee in<g ref="char:EOLhyphen"/>cloſed. I wonder how Maſter <hi>Moor</hi> could miſſe this? Were the poor ſo much in his heart, that they put the Church quite out of his head?</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Whether Maſter <hi>Moor</hi> did purpoſely omit that particular, or no, I cannot tell. But, if hee did, I thinke hee deſerves to be commended for it. Having ſpoken ſo plainly, as hee hath done, page 17. againſt ſelfiſh<g ref="char:EOLhyphen"/>neſſe, which hee calls ſowing to the fleſh, and having ſayd expreſly, page 27, that Miniſters muſt not onley preach, but likewiſe practiſe this duty of charity, to beware of covetouſneſs, and to be of a giving ſpi<g ref="char:EOLhyphen"/>rit: me-thinks it was well done of him to forbear this argument, where<g ref="char:EOLhyphen"/>in hee himſelfe is ſo nearly concerned, leſt that, if hee ſhould have urged it, as he hath done others, ſome might have taken occaſion thereupon to have retorted this Text, and ſayd of him, as St. <hi>John</hi> did of <hi>Judas, This he ſayd, not that he cared for the poor.</hi> And indeed to what purpoſe ſhould an argument againſt Incloſure bee urged now from Tythes, and the right of the Church to them, when not onely the right of the
+<pb n="36" facs="tcp:166754:23"/>Church to tithes is queſtioned, but likewiſe tithes themſelves cryed down by ſome, as not Jewiſh only, but Antichriſtian alſo. So that ſome men peradventure might ſuſpect the urging of an argument againſt incloſure from tithes to be a deſigne for the continuance of tithes, as a neceſſary means for the preſervation of common fields from incloſure, which uſu<g ref="char:EOLhyphen"/>ally thoſe that have intereſt in tithes are great oppoſers of. But what e<g ref="char:EOLhyphen"/>ver was the reaſon of Maſter <hi>Moores</hi> omitting it, I pray you let mee heare, what anſwer you would have given unto it, if he had urged it.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>The ſame that I have done before, namely, that incloſure rightly ordered cannot be prejudicial to the right of the Church in tithes, or to any man, unto whom that right of tithes doth ap<g ref="char:EOLhyphen"/>pertain.</p>
+                  <p>For
+<list>
+                        <item>firſt, If as I ſaid before, decay of tillage bee no proper or ne<g ref="char:EOLhyphen"/>ceſſary adjunct, fruit and effect of incloſure rightly ordered, but rather the contrary: if more corne may be raiſed in grounds inclo<g ref="char:EOLhyphen"/>ſed then in common fields, the tiths may be bettered, rather then impaired by incloſure.</item>
+                        <item>Secondly, In caſe thoſe that have right to tithes are doubt<g ref="char:EOLhyphen"/>full of an uncertainty, in that whether men will doe what they might doe in that kind or no, their intereſt, as well as other mens, may be provided for in the agreement, and the tithes com<g ref="char:EOLhyphen"/>pounded for, either in money, or in land.</item>
+                        <item>Thirdly, If no agreement at all be made, yet if the tiths be all duly paid in kind, as they ſhould be, what ever valew they be of, the right is preſerved, and there is no wrong done; and that they may bee in grounds incloſed, as well as in common fields.</item>
+                     </list>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Since you are ſo willing to tell me your mind in that par<g ref="char:EOLhyphen"/>ticular, although it be not mentioned by Maſter <hi>Moore,</hi> I pray you do the like in one other thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>What it that?</p>
+               </sp>
+            </div>
+            <div n="21" type="section">
+               <head>Sect. 21.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>The Apoſtles rule is, Abſtain from all appear<g ref="char:EOLhyphen"/>ance of evil. 1 <hi>Theſ.</hi> 5.22. and <hi>Philip.</hi> 4.8. amongſt the properties of the things that muſt be thought upon, one is, that they be of good report. But againſt incloſure generally it is objected by ſome men, that it is of evil report, that it hath an appearance of evil in it, and therefore muſt not be thought upon, but abſtained from. What do you ſay to this?</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>To this I ſay,
+<list>
+                        <item>Firſt, That an appearance of evil, and an evil report, are juſt oc<g ref="char:EOLhyphen"/>caſions for men to ſuſpend their reſolutions of doing thoſe things,
+<pb n="37" facs="tcp:166754:23"/>wherein there is ſuch an appearance, concerning which there is ſuch a report, until they have ſeriouſly conſidered of the matter, and thorowly tryed whether the things themſelves bee ſuch indeed as they appear, and whether they ought to bee ſo reported of. But when they come to ſet up their reſt, which ſide they will ſit down upon, and ſettle their reſolution what to doe indeed, it muſt not be according unto that which doth appear, but that which is, not according unto that which is reported, but according unto that which ought to be. It is the Apoſtles rule, 1 <hi>Theſ.</hi> 5, 21. Prove all things, hold faſt that which is good. and our Saviours, <hi>John</hi> 7.24. Judge not according to the appearance, but judge righteous judgement.</item>
+                        <item>2. That as evil indeed and the appearance of evill are two diſtinct things, ſo it is one thing to be ill reported of, and another thing to be of evill report. Thoſe things alone are of evill report, which are evil indeed, and ought to bee ſo reported of. But many things are ill reported of, which only appears to be evill, and are not. <hi>Multa videntur, quae non ſunt.</hi> So the way of Chriſtian religion it ſelf, the way wherein <hi>Paul</hi> pro<g ref="char:EOLhyphen"/>feſſed to worſhip the God of his fathers, by his own confeſſion, was cal<g ref="char:EOLhyphen"/>led hereſie, <hi>Acts,</hi> 24.14. and, by the teſtimonie of the Jewes, was every where ſpoken againſt, <hi>Acts</hi> 28, 22. yea our ſaviour ſaith to his diſci<g ref="char:EOLhyphen"/>ples, <hi>Mat.</hi> 5.11. <hi>Bleſſed are ye when men revile you, and ſhall ſay all manner of evil againſt you falſly for ſake.</hi>
+                        </item>
+                        <item>3. That although in ſome incloſure there may bee, and too often is, not an appearance only of evill, but evill indeed, though ſome incloſures have been indeed of evil report, that is, ſuch as deſerve to be evil reported of; Yet all incloſures neither have been are, or need to be ſuch.</item>
+                        <item>4. That even in this particular alſo, as much may be ſaid of common<g ref="char:EOLhyphen"/>fields, as of Incloſures; that in ſome at leaſt, if not in all commonfields, there is not onely appearance of evil, but evill indeed, and that they are not only it reported of, but likewiſe deſerve to bee ſo: as I think may ſufficiently appear by that, which hath been ſaid already. Is there any thing elſe in Maſter <hi>Moores</hi> diſcourſe, which you make queſtion of?</item>
+                     </list>
+                  </p>
+               </sp>
+            </div>
+            <div n="22" type="section">
+               <head>Sect. 22.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Not that I remember now. But I ſhall thankfully ac<g ref="char:EOLhyphen"/>knowledge it a further favour, if you will be pleaſed to anſwer my deſire in one thing more.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>What may that be?</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>I hear that now Maſter <hi>Moor</hi> doth intend to procure a Peti<g ref="char:EOLhyphen"/>tion againſt incloſure generally ſubſcribed by the inhabitants of divers Counties, to be preſented to the Parliament: which may peradventure give occaſion to others to procure an Anti-petition in behalfe of inclo<g ref="char:EOLhyphen"/>ſure
+<pb n="38" facs="tcp:166754:24"/>ſubſcribed in the ſame Counties. By which means it may truly appear, who they are, and of what condition, that ſtand for common fields, or for incloſure. In caſe ſuch a courſe ſhould be ta<g ref="char:EOLhyphen"/>ken, what forme of Petition doe you think fit to be preſented in be<g ref="char:EOLhyphen"/>halfe of incloſure?</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>For that you ſhall pardon mee, I will not preſume to take upon me ſo much, as to thinke of the forme of ſuch a Petition, but leave it to men of more ability, and experience, better acquainted with ſuch courſes. And for the matter of ſuch a Petition, I have told you ſo much of my mind already, that I need to ſay no more, either of what I think fit in ſuch a caſe to be deſired, or of what may be ur<g ref="char:EOLhyphen"/>ged as reaſon to induce to a conceſſion of it. But peradventure, if this diſcourſe, which now you and I have had, ſhould be known to ſome of them, unto whom Mr. <hi>Moor</hi> preſented his, they would think it more fit for him to beſtow his pains in ſeeking to reform the evils and abuſes in common fields, there where he is acquainted, then in ſolliciting ſtrangers for a Petition againſt Incloſure. Howſoever, although I grant not your requeſt in this, yet having already an<g ref="char:EOLhyphen"/>ſwered your deſire in other things, give me leave likewiſe to pro<g ref="char:EOLhyphen"/>poſe ſome queſtions unto you. I will not put you to the trouble now to anſwer them, but if you know any that are adverſaries to incloſure in general, deſire them, if they can, and will, to doe it for you.
+<list>
+                        <item>Firſt, doth it appear by any text in Scripture, or by the teſtimony of any Author whatſoever, that ever any fields lay open, and were uſed in common, ſo as now they are in ſome places of <hi>England</hi> (thoſe in-land Counties in particular, where incloſure is now ſo much inveighed againſt) either in the land of <hi>Canaan,</hi> the lot of <hi>Iſraels</hi> in<g ref="char:EOLhyphen"/>heritance, or in any other countrey whatſoever?</item>
+                        <item>Secondly, doth it appear, that breaking down walls, or taking a<g ref="char:EOLhyphen"/>way hedges, whereby grounds formerly incloſed, and kept ſeverall, may again bee layd open, and uſed in common, is any where in Scripture ſpoken of otherwiſe, then as an accurſed thing, either the fruit or puniſhment of ſin?</item>
+                        <item>Thirdly, is there any probability, that it can be any more unlaw<g ref="char:EOLhyphen"/>full to incloſe hereafter any land which is now in common, then it is neceſſary now, to lay open all the land, which hath been hereto<g ref="char:EOLhyphen"/>fore incloſed?</item>
+                        <item>Fourthly, is it true, or no, which hath been ſaid by ſome, that it was a practiſe of policy in King <hi>William</hi> the Conqueror, to have
+<pb n="39" facs="tcp:166754:24"/>mens lands layd ſcattered, as they are in common fields, of purpoſe to miniſter unto them ſo much occaſion of contention with one a<g ref="char:EOLhyphen"/>nother, that they might not have opportunity and leiſure to unite againſt him, in conſideration whereof it hath been called the Con<g ref="char:EOLhyphen"/>querours curſe?</item>
+                     </list>
+                  </p>
+                  <p>I will ſay no more, but only trim up this homely diſcourſe with a few fine lines borrowed from him, in all whoſe writings wit and art doe equally triumph together; Mr. <hi>Fuller</hi> I mean, who in the ſecond book and thirteenth chapter of <hi>The holy State,</hi> concerning the good Landlord, amongſt other things writeth thus. <hi>He deteſts and abhors all incloſure with depopulation.</hi> And, becauſe this may ſeem a matter of importance, we will break it into ſeverall Propoſitions.</p>
+                  <p n="1">1. Incloſure may bee without depopulating. Infinite examples ſhew this to be true. But depopulation hath caſt a ſlander on Inclo<g ref="char:EOLhyphen"/>ſure, which becauſe often done with it, people ſuſpect it cannot bee done without it.</p>
+                  <p n="2">2. Incloſure made without depopulating, is injurious unto none. I mean, if proportionable allotments bee made to the poor for their commonage, and free and leaſe-holders have a conſiderable ſhare with the Lord of the Mannor.</p>
+                  <p n="3">3. Incloſure without depopulating is beneficiall to private per<g ref="char:EOLhyphen"/>ſons. Then have they moſt power and comfort to improve their own parts, &amp; for the time and manner thereof may mold it to their own conveniency. The Monarch of one Acre will make more profit thereof, then he that hath his ſhare in forty in common.</p>
+                  <p n="4">4. Incloſure without depopulating is profitable to the Common<g ref="char:EOLhyphen"/>wealth. If injurious to no private perſon, and profitable to them all, it muſt needs be beneficial to the Commonwealth, which is but the <hi>ſumma totalis</hi> of ſundry perſons as ſeveral figures. Beſides if a Mathematician ſhould count the wood in the hedges, to what a mighty Forreſt would it amount? This underwood ſerves for ſup<g ref="char:EOLhyphen"/>plyes to ſave timber from burning, otherwiſe our woodden walls in the water muſt have been ſent to the fire. Adde to this the ſtrength of an incloſed country againſt a forrain Invaſion. Hedges and coun<g ref="char:EOLhyphen"/>ter hedges (having in number what they want in height and depth) ſerve for barracadoes, and will ſtick as birdlime in the wings of the Horſe, &amp; ſcotch the wheeling about of the Foot. Small reſiſtance will make the enemy to earn every mile of ground as he marches. Object not, That Incloſure deſtroyes Tillage, the ſtaffe of a country, for it need not all bee converted to Paſturage: <hi>Cain</hi> and <hi>Abel</hi> may
+<pb n="40" facs="tcp:166754:25"/>very wel agree in the Commonwealth, the Plowman and Shepheard part the Incloſures betwixt them.</p>
+                  <p n="5">5. Incloſure with Depopulation is a canker to the Common<g ref="char:EOLhyphen"/>wealth. It needs no proof, woful experience ſhews how it unhouſes thouſands of people, till deſperate need thruſts them on the Gal<g ref="char:EOLhyphen"/>lows. Long time had this land been ſick of a Pleuriſie of people, if not let blood in the Weſtern plantations.</p>
+                  <p n="6">6. Incloſure with depopulation endamageth the parties them<g ref="char:EOLhyphen"/>ſelves: 'Tis a Paradox, and yet a truth, that reaſon ſhews ſuch in<g ref="char:EOLhyphen"/>cloſures to be gainfull, and experience proves them to be loſſe to the makers. It may bee becauſe God being <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, a lover of mankind, and mens ſociety, and having ſaid unto then, <hi>Multiply and increaſe,</hi> counts it an affront unto him that men depopulate; where<g ref="char:EOLhyphen"/>as Bees daily ſwarm, men make the hives fewer. The Margin ſhall direct you to the Author, that counts eleven Man<g ref="char:EOLhyphen"/>nors in <hi>Northamptonſhire</hi> thus incloſed,<note place="margin">
+                        <hi>Mr.</hi> Benthams Chri<g ref="char:EOLhyphen"/>ſtian conflict, <hi>pag.</hi> 322.</note> which Towns have vomited out (to uſe his own expreſ<g ref="char:EOLhyphen"/>ſion) and unburthened themſelves of their for<g ref="char:EOLhyphen"/>mer deſolating owners, and I think their poſterity.</p>
+               </sp>
+               <q>
+                  <bibl>
+                     <hi>Lectori candido S.</hi>
+                  </bibl>
+                  <l>Daveniam ſubitis: non displicuiſſe meretur,</l>
+                  <l>Qui prodeſſe magis, quàm placuiſſe cupit.</l>
+               </q>
+               <q>
+                  <l>Pardon this ſudden work: who ſtrives to profit,</l>
+                  <l>More then to pleaſe, ſhould not repent him of it.</l>
+               </q>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
